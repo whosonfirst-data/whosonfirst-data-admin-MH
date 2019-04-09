@@ -1,0 +1,64 @@
+{
+  "id": 1209650313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.73502,6.0815,171.73502,6.0815",
+    "geom:latitude":6.0815,
+    "geom:longitude":171.73502,
+    "gn:admin1_code":"320",
+    "gn:asciiname":"Mili",
+    "gn:country_code":"MH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":7306516,
+    "gn:latitude":6.0815,
+    "gn:longitude":171.73502,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Mili",
+    "gn:population":854,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7306516
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"caa3e4c096460d656bd57bf352bad5fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":1209650313
+        }
+    ],
+    "wof:id":1209650313,
+    "wof:lastmodified":1536280602,
+    "wof:name":"Mili",
+    "wof:parent_id":85632663,
+    "wof:placetype":"locality",
+    "wof:population":854,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.73502,
+    6.0815,
+    171.73502,
+    6.0815
+],
+  "geometry": {"coordinates":[171.73501999999999,6.0815],"type":"Point"}
+}

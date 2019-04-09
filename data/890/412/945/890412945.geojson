@@ -1,0 +1,120 @@
+{
+  "id": 890412945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.11773,5.59997,168.11773,5.59997",
+    "geom:latitude":5.59997,
+    "geom:longitude":168.11773,
+    "gn:country":"MH",
+    "gn:fcode":"ATOL",
+    "gn:pop":772,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "name:chi_x_preferred":[
+        "\u7d0d\u83ab\u91cc\u514b\u74b0\u7901"
+    ],
+    "name:dut_x_preferred":[
+        "Namdrik Atoll"
+    ],
+    "name:eng_x_preferred":[
+        "Namdrik Atoll"
+    ],
+    "name:fin_x_preferred":[
+        "Namorik"
+    ],
+    "name:fre_x_preferred":[
+        "Namdrik"
+    ],
+    "name:ger_x_preferred":[
+        "Namorik"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Namorik"
+    ],
+    "name:hrv_x_preferred":[
+        "Namorik"
+    ],
+    "name:ita_x_preferred":[
+        "Namorik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ca\u30e2\u30ea\u30c3\u30af\u74b0\u7901"
+    ],
+    "name:kor_x_preferred":[
+        "\ub098\ubaa8\ub9ac\ud06c \ud658\ucd08"
+    ],
+    "name:lit_x_preferred":[
+        "Namdrikas"
+    ],
+    "name:mac_x_preferred":[
+        "\u041d\u0430\u043c\u0434\u0440\u0438\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "Namorik"
+    ],
+    "name:por_x_preferred":[
+        "Namorik"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0430\u043c\u043e\u0440\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Namorik"
+    ],
+    "name:swe_x_preferred":[
+        "Namorik"
+    ],
+    "name:unk_x_variant":[
+        "Klein-Namo"
+    ],
+    "qs:name":"Namdrik Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":628,
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2080105,
+        "qs:id":571851,
+        "wd:id":"Q697819",
+        "wk:page":"Namdrik Atoll"
+    },
+    "wof:country":"MH",
+    "wof:created":1469050982,
+    "wof:geomhash":"efa93592e6b553ca6bbf4cae6cc939eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":890412945
+        }
+    ],
+    "wof:id":890412945,
+    "wof:lastmodified":1527727262,
+    "wof:name":"Namdrik Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":772,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.11773,
+    5.59997,
+    168.11773,
+    5.59997
+],
+  "geometry": {"coordinates":[168.11772999999999,5.59997],"type":"Point"}
+}

@@ -1,0 +1,136 @@
+{
+  "id": 890412977,
+  "type": "Feature",
+  "properties": {
+    "abrv:eng_x_preferred":[
+        "FACTOR"
+    ],
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.77403,7.38085,168.77403,7.38085",
+    "geom:latitude":7.38085,
+    "geom:longitude":168.77403,
+    "gn:country":"MH",
+    "gn:fcode":"ATOL",
+    "gn:pop":1959,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "name:chi_x_preferred":[
+        "\u57c3\u6797\u62c9\u666e\u62c9\u666e\u74b0\u7901"
+    ],
+    "name:dut_x_preferred":[
+        "Ailinglaplap Atoll"
+    ],
+    "name:eng_x_preferred":[
+        "Ailinglaplap Atoll"
+    ],
+    "name:fin_x_preferred":[
+        "Ailinglaplap"
+    ],
+    "name:fre_x_preferred":[
+        "Ailinglaplap"
+    ],
+    "name:ger_x_preferred":[
+        "Ailinglapalap"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Ailinglaplap"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03ca\u03bb\u03b9\u03bd\u03b3\u03ba\u03bb\u03ac\u03c0\u03bb\u03b1\u03c0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9\u05dc\u05d9\u05e0\u05d2\u05dc\u05d0\u05e4\u05dc\u05d0\u05e4"
+    ],
+    "name:hrv_x_preferred":[
+        "Ailinglaplap"
+    ],
+    "name:ita_x_preferred":[
+        "Ailinglaplap"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30a4\u30ea\u30f3\u30b0\u30e9\u30c3\u30d7\u74b0\u7901"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc77c\ub9c1\uae00\ub77c\ud50c\ub77c\ud504 \ud658\ucd08"
+    ],
+    "name:lit_x_preferred":[
+        "Ailinglaplapas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0458\u043b\u0438\u043d\u0433\u043b\u0430\u043f\u043b\u0430\u043f"
+    ],
+    "name:nob_x_preferred":[
+        "Ailinglaplap"
+    ],
+    "name:pol_x_preferred":[
+        "Ailinglaplap"
+    ],
+    "name:por_x_preferred":[
+        "Ailinglaplap"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0438\u043b\u0438\u043d\u0433\u043b\u0430\u043f\u0430\u043b\u0430\u043f"
+    ],
+    "name:spa_x_preferred":[
+        "Ailinglaplap"
+    ],
+    "name:swe_x_preferred":[
+        "Ailinglapalap"
+    ],
+    "name:unk_x_variant":[
+        "Odia"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea3o san h\u00f4 v\u00f2ng Ailinglaplap"
+    ],
+    "qs:name":"Ailinglaplap Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"3",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:wordcount":476,
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2081089,
+        "qs:id":571873,
+        "wd:id":"Q405165",
+        "wk:page":"Ailinglaplap Atoll"
+    },
+    "wof:country":"MH",
+    "wof:created":1469050983,
+    "wof:geomhash":"96ed5b7d6393a578f6262f3670b284b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":890412977
+        }
+    ],
+    "wof:id":890412977,
+    "wof:lastmodified":1536617718,
+    "wof:name":"Ailinglaplap Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1959,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.77403,
+    7.38085,
+    168.77403,
+    7.38085
+],
+  "geometry": {"coordinates":[168.77403000000001,7.38085],"type":"Point"}
+}

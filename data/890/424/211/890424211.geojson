@@ -1,0 +1,63 @@
+{
+  "id": 890424211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.89189,11.1612,166.89189,11.1612",
+    "geom:latitude":11.1612,
+    "geom:longitude":166.89189,
+    "gn:country":"MH",
+    "gn:fcode":"PPL",
+    "gn:pop":19,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"New Rongelap",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632663,
+        85674139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7304002,
+        "qs:id":682311
+    },
+    "wof:country":"MH",
+    "wof:created":1469051534,
+    "wof:geomhash":"2803df9d675b94783bee6f135955e957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632663,
+            "locality_id":890424211,
+            "region_id":85674139
+        }
+    ],
+    "wof:id":890424211,
+    "wof:lastmodified":1505343480,
+    "wof:name":"New Rongelap",
+    "wof:parent_id":85674139,
+    "wof:placetype":"locality",
+    "wof:population":19,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.89189,
+    11.1612,
+    166.89189,
+    11.1612
+],
+  "geometry": {"coordinates":[166.89188999999999,11.1612],"type":"Point"}
+}

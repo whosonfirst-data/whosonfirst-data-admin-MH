@@ -1,0 +1,61 @@
+{
+  "id": 1209950731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.56816,7.12159,171.56816,7.12159",
+    "geom:latitude":7.12159,
+    "geom:longitude":171.56816,
+    "gn:admin1_code":"040",
+    "gn:asciiname":"Ulien",
+    "gn:country_code":"MH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7304031,
+    "gn:latitude":7.12159,
+    "gn:longitude":171.56816,
+    "gn:modification_date":"2010-07-27",
+    "gn:name":"Ulien",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7304031
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"9d45edcafbcb6999901f6e79885646c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209950731,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209950731,
+    "wof:lastmodified":1536383901,
+    "wof:name":"Ulien",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.56816,
+    7.12159,
+    171.56816,
+    7.12159
+],
+  "geometry": {"coordinates":[171.56816000000001,7.12159],"type":"Point"}
+}

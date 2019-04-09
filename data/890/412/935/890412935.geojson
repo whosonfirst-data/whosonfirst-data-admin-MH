@@ -1,0 +1,126 @@
+{
+  "id": 890412935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.80417,11.26832,169.80417,11.26832",
+    "geom:latitude":11.26832,
+    "geom:longitude":169.80417,
+    "gn:country":"MH",
+    "gn:fcode":"ATOL",
+    "gn:pop":433,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "name:baq_x_preferred":[
+        "Utirik"
+    ],
+    "name:bel_x_preferred":[
+        "\u0410\u0442\u043e\u043b \u0423\u0442\u044b\u0440\u044b\u043a"
+    ],
+    "name:cat_x_preferred":[
+        "Utirik"
+    ],
+    "name:chi_x_preferred":[
+        "\u70cf\u8482\u91cc\u514b\u74b0\u7901"
+    ],
+    "name:dut_x_preferred":[
+        "Utirik Atoll"
+    ],
+    "name:eng_x_preferred":[
+        "Utirik Atoll"
+    ],
+    "name:fin_x_preferred":[
+        "Utirik"
+    ],
+    "name:fre_x_preferred":[
+        "Utirik"
+    ],
+    "name:ger_x_preferred":[
+        "Utirik"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Utirik"
+    ],
+    "name:ita_x_preferred":[
+        "Utirik"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30c1\u30ea\u30c3\u30af\u74b0\u7901"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\ud2f0\ub9ac\ud06c \ud658\ucd08"
+    ],
+    "name:lit_x_preferred":[
+        "Utirikas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0423\u0442\u0438\u0440\u0438\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "Utirik"
+    ],
+    "name:por_x_preferred":[
+        "Atol Utirik"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0442\u0438\u0440\u0438\u043a"
+    ],
+    "name:spa_x_preferred":[
+        "Utirik"
+    ],
+    "name:swe_x_preferred":[
+        "Utirik"
+    ],
+    "name:unk_x_variant":[
+        "Kutusow Atoll"
+    ],
+    "qs:name":"Utrik Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":357,
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2079871,
+        "qs:id":571847,
+        "wd:id":"Q700015",
+        "wk:page":"Utirik Atoll"
+    },
+    "wof:country":"MH",
+    "wof:created":1469050982,
+    "wof:geomhash":"3d039c9e70ff2874c88441a46b9873dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":890412935
+        }
+    ],
+    "wof:id":890412935,
+    "wof:lastmodified":1527727261,
+    "wof:name":"Utrik Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":433,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.80417,
+    11.26832,
+    169.80417,
+    11.26832
+],
+  "geometry": {"coordinates":[169.80417,11.26832],"type":"Point"}
+}

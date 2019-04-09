@@ -1,0 +1,62 @@
+{
+  "id": 1193168225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.03704,7.14654,171.03704,7.14654",
+    "geom:latitude":7.14654,
+    "geom:longitude":171.03704,
+    "gn:admin1_code":"190",
+    "gn:asciiname":"Laura",
+    "gn:country_code":"MH",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7304298,
+    "gn:latitude":7.14654,
+    "gn:longitude":171.03704,
+    "gn:modification_date":"2010-08-09",
+    "gn:name":"Laura",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7304298,
+        "wk:page":"Laura%2C_Marshall_Islands"
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"6d85fc0f50aa642d54cf7f0bb3b715b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193168225,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193168225,
+    "wof:lastmodified":1537568381,
+    "wof:name":"Laura",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.03704,
+    7.14654,
+    171.03704,
+    7.14654
+],
+  "geometry": {"coordinates":[171.03703999999999,7.14654],"type":"Point"}
+}

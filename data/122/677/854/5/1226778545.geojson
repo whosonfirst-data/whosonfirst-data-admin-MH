@@ -1,0 +1,61 @@
+{
+  "id": 1226778545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.18927,8.49873,171.18927,8.49873",
+    "geom:latitude":8.49873,
+    "geom:longitude":171.18927,
+    "gn:admin1_code":"300",
+    "gn:asciiname":"Airuk",
+    "gn:country_code":"MH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7304214,
+    "gn:latitude":8.49873,
+    "gn:longitude":171.18927,
+    "gn:modification_date":"2010-07-30",
+    "gn:name":"Airuk",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7304214
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"e936a6c491d30c4c26964bc1034e93d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226778545,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226778545,
+    "wof:lastmodified":1536668431,
+    "wof:name":"Airuk",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.18927,
+    8.49873,
+    171.18927,
+    8.49873
+],
+  "geometry": {"coordinates":[171.18926999999999,8.49873],"type":"Point"}
+}

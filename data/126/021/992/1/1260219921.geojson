@@ -1,0 +1,61 @@
+{
+  "id": 1260219921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.17858,8.16073,168.17858,8.16073",
+    "geom:latitude":8.16073,
+    "geom:longitude":168.17858,
+    "gn:admin1_code":"340",
+    "gn:asciiname":"Majkin",
+    "gn:country_code":"MH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7303978,
+    "gn:latitude":8.16073,
+    "gn:longitude":168.17858,
+    "gn:modification_date":"2010-07-24",
+    "gn:name":"Majkin",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7303978
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"67ec92e7b22e100d8db3a278216ad173",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1260219921,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260219921,
+    "wof:lastmodified":1536798318,
+    "wof:name":"Majkin",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.17858,
+    8.16073,
+    168.17858,
+    8.16073
+],
+  "geometry": {"coordinates":[168.17858000000001,8.16073],"type":"Point"}
+}

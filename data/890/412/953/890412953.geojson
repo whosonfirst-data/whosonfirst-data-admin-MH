@@ -1,0 +1,64 @@
+{
+  "id": 890412953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.2,7.148,171.2,7.148",
+    "geom:latitude":7.148,
+    "geom:longitude":171.2,
+    "gn:country":"MH",
+    "gn:fcode":"ATOL",
+    "gn:pop":23676,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Arrowsmith Island"
+    ],
+    "qs:name":"Majuro Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2080205,
+        "gp:id":56618729,
+        "qs:id":571857
+    },
+    "wof:country":"MH",
+    "wof:created":1469050983,
+    "wof:geomhash":"2bafac058a974067535778591a9ed543",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":890412953
+        }
+    ],
+    "wof:id":890412953,
+    "wof:lastmodified":1505343411,
+    "wof:name":"Majuro Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":23676,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.2,
+    7.148,
+    171.2,
+    7.148
+],
+  "geometry": {"coordinates":[171.19999999999999,7.148],"type":"Point"}
+}

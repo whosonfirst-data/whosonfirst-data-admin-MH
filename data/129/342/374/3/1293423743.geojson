@@ -1,0 +1,68 @@
+{
+  "id": 1293423743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.31132,7.07185,171.31132,7.07185",
+    "geom:latitude":7.07185,
+    "geom:longitude":171.31132,
+    "gn:admin1_code":"190",
+    "gn:asciiname":"Rairik",
+    "gn:cc2":"MH",
+    "gn:country_code":"MH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2080016,
+    "gn:latitude":7.07185,
+    "gn:longitude":171.31132,
+    "gn:modification_date":"2010-08-01",
+    "gn:name":"Rairik",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rairikku Island",
+        "Rairok",
+        "Rairikku-To"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2080016,
+        "wk:page":"Rairok"
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"70b89e3a59181175c70e284cde5b8c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293423743,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293423743,
+    "wof:lastmodified":1537664832,
+    "wof:name":"Rairik",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.31132,
+    7.07185,
+    171.31132,
+    7.07185
+],
+  "geometry": {"coordinates":[171.31131999999999,7.07185],"type":"Point"}
+}

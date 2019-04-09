@@ -1,0 +1,68 @@
+{
+  "id": 1209248879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.26344,8.92217,166.26344,8.92217",
+    "geom:latitude":8.92217,
+    "geom:longitude":166.26344,
+    "gn:admin1_code":"160",
+    "gn:asciiname":"Lae",
+    "gn:country_code":"MH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":7306517,
+    "gn:latitude":8.92217,
+    "gn:longitude":166.26344,
+    "gn:modification_date":"2013-08-09",
+    "gn:name":"Lae",
+    "gn:population":319,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mah_x_preferred":[
+        "Lae"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7306517,
+        "wk:page":"Lae_Atoll"
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"18103a98af50cdcbab2d9b9b6dd789db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":1209248879
+        }
+    ],
+    "wof:id":1209248879,
+    "wof:lastmodified":1537664834,
+    "wof:name":"Lae",
+    "wof:parent_id":85632663,
+    "wof:placetype":"locality",
+    "wof:population":319,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.26344,
+    8.92217,
+    166.26344,
+    8.92217
+],
+  "geometry": {"coordinates":[166.26344,8.92217],"type":"Point"}
+}

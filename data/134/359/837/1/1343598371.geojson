@@ -1,0 +1,61 @@
+{
+  "id": 1343598371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.23072,7.76007,168.23072,7.76007",
+    "geom:latitude":7.76007,
+    "geom:longitude":168.23072,
+    "gn:admin1_code":"340",
+    "gn:asciiname":"Loen",
+    "gn:country_code":"MH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":7306521,
+    "gn:latitude":7.76007,
+    "gn:longitude":168.23072,
+    "gn:modification_date":"2010-08-06",
+    "gn:name":"Loen",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7306521
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"7ac9f3e5f589d663784f7a08651c8479",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343598371,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343598371,
+    "wof:lastmodified":1537042736,
+    "wof:name":"Loen",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.23072,
+    7.76007,
+    168.23072,
+    7.76007
+],
+  "geometry": {"coordinates":[168.23071999999999,7.76007],"type":"Point"}
+}

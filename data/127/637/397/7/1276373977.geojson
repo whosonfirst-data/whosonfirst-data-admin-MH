@@ -1,0 +1,68 @@
+{
+  "id": 1276373977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.939,7.48784,168.939,7.48784",
+    "geom:latitude":7.48784,
+    "geom:longitude":168.939,
+    "gn:admin1_code":"010",
+    "gn:asciiname":"Jeh",
+    "gn:cc2":"MH",
+    "gn:country_code":"MH",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2080636,
+    "gn:latitude":7.48784,
+    "gn:longitude":168.939,
+    "gn:modification_date":"2010-07-15",
+    "gn:name":"Jeh",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jojo To",
+        "Denden Island",
+        "Tutu",
+        "Deudeu-t\u014d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2080636
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"6f521186f053217ea7647b23d0955b0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276373977,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276373977,
+    "wof:lastmodified":1537664833,
+    "wof:name":"Jeh",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.93900000000005,
+    7.48784,
+    168.93900000000005,
+    7.48784
+],
+  "geometry": {"coordinates":[168.93900000000005,7.48784],"type":"Point"}
+}

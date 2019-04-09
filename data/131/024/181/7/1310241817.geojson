@@ -1,0 +1,71 @@
+{
+  "id": 1310241817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.76416,8.93218,165.76416,8.93218",
+    "geom:latitude":8.93218,
+    "geom:longitude":165.76416,
+    "gn:admin1_code":"390",
+    "gn:asciiname":"Ujae",
+    "gn:country_code":"MH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":7306519,
+    "gn:latitude":8.93218,
+    "gn:longitude":165.76416,
+    "gn:modification_date":"2017-09-02",
+    "gn:name":"Ujae",
+    "gn:population":448,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mah_x_preferred":[
+        "Ujae"
+    ],
+    "name:mah_x_variant":[
+        "W\u016bjae"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7306519,
+        "wk:page":"Ujae_Atoll"
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"ef040fadac408e3c73a4003025100bcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310241817,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310241817,
+    "wof:lastmodified":1537664835,
+    "wof:name":"Ujae",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":448,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.76416,
+    8.93218,
+    165.76416,
+    8.93218
+],
+  "geometry": {"coordinates":[165.76416,8.93218],"type":"Point"}
+}

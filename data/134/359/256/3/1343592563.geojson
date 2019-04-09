@@ -1,0 +1,61 @@
+{
+  "id": 1343592563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.62064,8.79649,167.62064,8.79649",
+    "geom:latitude":8.79649,
+    "geom:longitude":167.62064,
+    "gn:admin1_code":"150",
+    "gn:asciiname":"Ennylabegan local village",
+    "gn:country_code":"MH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7304559,
+    "gn:latitude":8.79649,
+    "gn:longitude":167.62064,
+    "gn:modification_date":"2010-08-05",
+    "gn:name":"Ennylabegan local village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Kwajalein",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7304559
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"d72e360e0f6340b37c8a8cba487d2313",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343592563,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343592563,
+    "wof:lastmodified":1537050972,
+    "wof:name":"Ennylabegan local village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.62063999999995,
+    8.79649,
+    167.62063999999995,
+    8.79649
+],
+  "geometry": {"coordinates":[167.62063999999995,8.79649],"type":"Point"}
+}

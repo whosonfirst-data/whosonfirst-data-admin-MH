@@ -1,0 +1,61 @@
+{
+  "id": 1360119233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.00913,10.16715,166.00913,10.16715",
+    "geom:latitude":10.16715,
+    "geom:longitude":166.00913,
+    "gn:admin1_code":"420",
+    "gn:asciiname":"Wotho",
+    "gn:country_code":"MH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2080555,
+    "gn:latitude":10.16715,
+    "gn:longitude":166.00913,
+    "gn:modification_date":"2010-07-25",
+    "gn:name":"Wotho",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2080555
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"5161c97cf3faf3522781b99b9cfb3b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360119233,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360119233,
+    "wof:lastmodified":1536896208,
+    "wof:name":"Wotho",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.00913,
+    10.16715,
+    166.00913,
+    10.16715
+],
+  "geometry": {"coordinates":[166.00913,10.16715],"type":"Point"}
+}

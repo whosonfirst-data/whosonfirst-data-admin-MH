@@ -1,0 +1,67 @@
+{
+  "id": 1193054971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.69636,4.58199,168.69636,4.58199",
+    "geom:latitude":4.58199,
+    "geom:longitude":168.69636,
+    "gn:admin1_code":"080",
+    "gn:asciiname":"Ebon",
+    "gn:country_code":"MH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":7306512,
+    "gn:latitude":4.58199,
+    "gn:longitude":168.69636,
+    "gn:modification_date":"2013-08-09",
+    "gn:name":"Ebon",
+    "gn:population":714,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mah_x_preferred":[
+        "Epoon"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7306512
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"81c2ef77089f4ff3484e24301d03980a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193054971,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193054971,
+    "wof:lastmodified":1537664834,
+    "wof:name":"Ebon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":714,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.69636,
+    4.58199,
+    168.69636,
+    4.58199
+],
+  "geometry": {"coordinates":[168.69636,4.58199],"type":"Point"}
+}

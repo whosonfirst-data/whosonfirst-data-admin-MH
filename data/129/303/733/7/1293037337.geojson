@@ -1,0 +1,70 @@
+{
+  "id": 1293037337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.86461,10.27531,170.86461,10.27531",
+    "geom:latitude":10.27531,
+    "geom:longitude":170.86461,
+    "gn:admin1_code":"310",
+    "gn:asciiname":"Mejit",
+    "gn:country_code":"MH",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":7306523,
+    "gn:latitude":10.27531,
+    "gn:longitude":170.86461,
+    "gn:modification_date":"2013-08-09",
+    "gn:name":"Mejit",
+    "gn:population":300,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mah_x_preferred":[
+        "M\u0101jej"
+    ],
+    "name:mah_x_variant":[
+        "M\u0101jeej"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7306523
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"0e0f5e929acc00b7dccbc017574b864b",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293037337,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293037337,
+    "wof:lastmodified":1537664835,
+    "wof:name":"Mejit",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":300,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.86461,
+    10.27531,
+    170.86461,
+    10.27531
+],
+  "geometry": {"coordinates":[170.86461,10.27531],"type":"Point"}
+}

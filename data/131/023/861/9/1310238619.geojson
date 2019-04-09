@@ -1,0 +1,61 @@
+{
+  "id": 1310238619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.65237,4.63623,168.65237,4.63623",
+    "geom:latitude":4.63623,
+    "geom:longitude":168.65237,
+    "gn:admin1_code":"080",
+    "gn:asciiname":"Toka",
+    "gn:country_code":"MH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7303925,
+    "gn:latitude":4.63623,
+    "gn:longitude":168.65237,
+    "gn:modification_date":"2010-07-21",
+    "gn:name":"Toka",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7303925
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"ac5e3ae6ea446fe08b379fd6346ea538",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310238619,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310238619,
+    "wof:lastmodified":1536804346,
+    "wof:name":"Toka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.65237,
+    4.63623,
+    168.65237,
+    4.63623
+],
+  "geometry": {"coordinates":[168.65236999999999,4.63623],"type":"Point"}
+}

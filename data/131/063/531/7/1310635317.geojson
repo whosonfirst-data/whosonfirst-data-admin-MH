@@ -1,0 +1,68 @@
+{
+  "id": 1310635317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.82167,7.27861,168.82167,7.27861",
+    "geom:latitude":7.27861,
+    "geom:longitude":168.82167,
+    "gn:admin1_code":"010",
+    "gn:asciiname":"Airok",
+    "gn:country_code":"MH",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4038866,
+    "gn:latitude":7.27861,
+    "gn:longitude":168.82167,
+    "gn:modification_date":"2013-03-10",
+    "gn:name":"Airok",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Airok"
+    ],
+    "name:und_x_variant":[
+        "Airuk",
+        "Airekku-to *"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4038866
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"077b916982dc79c0fb41157c93552116",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310635317,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310635317,
+    "wof:lastmodified":1537664834,
+    "wof:name":"Airok",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.82166999999995,
+    7.27861,
+    168.82166999999995,
+    7.27861
+],
+  "geometry": {"coordinates":[168.82166999999995,7.27861],"type":"Point"}
+}

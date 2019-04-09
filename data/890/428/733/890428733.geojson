@@ -1,0 +1,126 @@
+{
+  "id": 890428733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.71927,4.63298,168.71927,4.63298",
+    "geom:latitude":4.63298,
+    "geom:longitude":168.71927,
+    "gn:country":"MH",
+    "gn:fcode":"ATOL",
+    "gn:pop":902,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "name:bel_x_preferred":[
+        "\u0410\u0442\u043e\u043b \u042d\u0431\u043e\u043d"
+    ],
+    "name:chi_x_preferred":[
+        "\u57c3\u5d29\u74b0\u7901"
+    ],
+    "name:dut_x_preferred":[
+        "Ebon Atoll"
+    ],
+    "name:eng_x_preferred":[
+        "Ebon Atoll"
+    ],
+    "name:est_x_preferred":[
+        "Ebon"
+    ],
+    "name:fin_x_preferred":[
+        "Ebon"
+    ],
+    "name:fre_x_preferred":[
+        "Ebon"
+    ],
+    "name:ger_x_preferred":[
+        "Ebon-Atoll"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Ebon"
+    ],
+    "name:hrv_x_preferred":[
+        "Ebon"
+    ],
+    "name:hun_x_preferred":[
+        "Ebon Atoll"
+    ],
+    "name:ita_x_preferred":[
+        "Ebon"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30dc\u30f3\u74b0\u7901"
+    ],
+    "name:kor_x_preferred":[
+        "\uc5d0\ubcf8 \ud658\ucd08"
+    ],
+    "name:ksh_x_preferred":[
+        "Ebon-Atoll"
+    ],
+    "name:lit_x_preferred":[
+        "Ebonas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0415\u0431\u043e\u043d"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u0431\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Ebon"
+    ],
+    "name:swe_x_preferred":[
+        "Ebon"
+    ],
+    "name:unk_x_variant":[
+        "Fourteen Islands"
+    ],
+    "qs:name":"Ebon Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":936,
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2080608,
+        "qs:id":571867,
+        "wd:id":"Q152754",
+        "wk:page":"Ebon Atoll"
+    },
+    "wof:country":"MH",
+    "wof:created":1469051768,
+    "wof:geomhash":"512517ca4dc5d1309d83fb22bd0a5228",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":890428733
+        }
+    ],
+    "wof:id":890428733,
+    "wof:lastmodified":1527782117,
+    "wof:name":"Ebon Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":902,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.71927,
+    4.63298,
+    168.71927,
+    4.63298
+],
+  "geometry": {"coordinates":[168.71926999999999,4.63298],"type":"Point"}
+}

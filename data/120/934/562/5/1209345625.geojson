@@ -1,0 +1,72 @@
+{
+  "id": 1209345625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.84739,11.22778,169.84739,11.22778",
+    "geom:latitude":11.22778,
+    "geom:longitude":169.84739,
+    "gn:admin1_code":"410",
+    "gn:asciiname":"Utrik",
+    "gn:country_code":"MH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":7306518,
+    "gn:latitude":11.22778,
+    "gn:longitude":169.84739,
+    "gn:modification_date":"2017-09-02",
+    "gn:name":"Utrik",
+    "gn:population":409,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mah_x_preferred":[
+        "Utr\u014dk"
+    ],
+    "name:und_x_variant":[
+        "Utirik",
+        "Utrik"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7306518,
+        "wk:page":"Utirik_Atoll"
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"2f6197a0ed90b35ea590675b3d403b7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":1209345625
+        }
+    ],
+    "wof:id":1209345625,
+    "wof:lastmodified":1537664835,
+    "wof:name":"Utrik",
+    "wof:parent_id":85632663,
+    "wof:placetype":"locality",
+    "wof:population":409,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.84739,
+    11.22778,
+    169.84739,
+    11.22778
+],
+  "geometry": {"coordinates":[169.84738999999999,11.22778],"type":"Point"}
+}

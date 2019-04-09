@@ -1,0 +1,60 @@
+{
+  "id": 1293893881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.377,7.087,171.377,7.087",
+    "geom:latitude":7.087,
+    "geom:longitude":171.377,
+    "gn:asciiname":"Dalap-Uliga-Dorrit",
+    "gn:country_code":"MH",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8347657,
+    "gn:latitude":7.087,
+    "gn:longitude":171.377,
+    "gn:modification_date":"2012-07-12",
+    "gn:name":"Dalap-Uliga-Dorrit",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8347657
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"6aeb86cec04f502dbad329271a8b7a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293893881,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293893881,
+    "wof:lastmodified":1536698556,
+    "wof:name":"Dalap-Uliga-Dorrit",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.377,
+    7.087,
+    171.377,
+    7.087
+],
+  "geometry": {"coordinates":[171.37700000000001,7.087],"type":"Point"}
+}

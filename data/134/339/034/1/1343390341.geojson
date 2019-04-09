@@ -1,0 +1,70 @@
+{
+  "id": 1343390341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.73919,8.77479,167.73919,8.77479",
+    "geom:latitude":8.77479,
+    "geom:longitude":167.73919,
+    "gn:admin1_code":"150",
+    "gn:asciiname":"Ebaye",
+    "gn:country_code":"MH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":7304467,
+    "gn:latitude":8.77479,
+    "gn:longitude":167.73919,
+    "gn:modification_date":"2013-08-09",
+    "gn:name":"Ebaye",
+    "gn:population":15000,
+    "gn:timezone":"Pacific/Kwajalein",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:mah_x_preferred":[
+        "Epj\u0101"
+    ],
+    "name:und_x_variant":[
+        "Ibae"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7304467
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"0efeb205a6583a63f30083685520d030",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343390341,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343390341,
+    "wof:lastmodified":1537664834,
+    "wof:name":"Ebaye",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":15000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.73918999999995,
+    8.77479,
+    167.73918999999995,
+    8.77479
+],
+  "geometry": {"coordinates":[167.73918999999995,8.77479],"type":"Point"}
+}

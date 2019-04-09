@@ -1,0 +1,65 @@
+{
+  "id": 1242907889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.59522,7.00342,171.59522,7.00342",
+    "geom:latitude":7.00342,
+    "geom:longitude":171.59522,
+    "gn:admin1_code":"040",
+    "gn:asciiname":"Warwir",
+    "gn:cc2":"MH",
+    "gn:country_code":"MH",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2079864,
+    "gn:latitude":7.00342,
+    "gn:longitude":171.59522,
+    "gn:modification_date":"2010-08-05",
+    "gn:name":"Warwir",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Warwor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2079864
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"9c446d3a6532eb1ad0ff835ae206c2e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242907889,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242907889,
+    "wof:lastmodified":1537664832,
+    "wof:name":"Warwir",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.59521999999996,
+    7.00342,
+    171.59521999999996,
+    7.00342
+],
+  "geometry": {"coordinates":[171.59521999999996,7.00342],"type":"Point"}
+}

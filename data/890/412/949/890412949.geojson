@@ -1,0 +1,66 @@
+{
+  "id": 890412949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.86946,10.27641,170.86946,10.27641",
+    "geom:latitude":10.27641,
+    "geom:longitude":170.86946,
+    "gn:country":"MH",
+    "gn:fcode":"ISL",
+    "gn:pop":416,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Mejichi-t\u014d"
+    ],
+    "qs:name":"Mejit Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":378,
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2080167,
+        "qs:id":571854,
+        "wd:id":"Q703543",
+        "wk:page":"Mejit Island"
+    },
+    "wof:country":"MH",
+    "wof:created":1469050983,
+    "wof:geomhash":"62428f008e3c354cd8b0a5328de78faf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":890412949
+        }
+    ],
+    "wof:id":890412949,
+    "wof:lastmodified":1527727261,
+    "wof:name":"Mejit Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":416,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.86946,
+    10.27641,
+    170.86946,
+    10.27641
+],
+  "geometry": {"coordinates":[170.86946,10.27641],"type":"Point"}
+}

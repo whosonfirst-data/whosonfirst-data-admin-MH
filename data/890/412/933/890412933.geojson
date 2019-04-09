@@ -1,0 +1,120 @@
+{
+  "id": 890412933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.98299,10.10315,165.98299,10.10315",
+    "geom:latitude":10.10315,
+    "geom:longitude":165.98299,
+    "gn:country":"MH",
+    "gn:fcode":"ATOL",
+    "gn:pop":145,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "name:chi_x_preferred":[
+        "\u6c83\u7279\u74b0\u7901"
+    ],
+    "name:dut_x_preferred":[
+        "Wotho Atoll"
+    ],
+    "name:eng_x_preferred":[
+        "Wotho Atoll"
+    ],
+    "name:fin_x_preferred":[
+        "Wotho"
+    ],
+    "name:fre_x_preferred":[
+        "Wotho"
+    ],
+    "name:ger_x_preferred":[
+        "Wotho"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Wotho"
+    ],
+    "name:hrv_x_preferred":[
+        "Wotho"
+    ],
+    "name:ind_x_preferred":[
+        "Atol Wotho"
+    ],
+    "name:ita_x_preferred":[
+        "Wotho"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30c8\u30fc\u74b0\u7901"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6cc\ud1a0 \ud658\ucd08"
+    ],
+    "name:lit_x_preferred":[
+        "Votas"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u043e\u0442\u043e"
+    ],
+    "name:pol_x_preferred":[
+        "Wotho"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0442\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Wotho"
+    ],
+    "name:swe_x_preferred":[
+        "Wotho"
+    ],
+    "name:unk_x_variant":[
+        "Kabahaia Inseln"
+    ],
+    "qs:name":"Wotho Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":302,
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2079845,
+        "qs:id":571846,
+        "wd:id":"Q175931",
+        "wk:page":"Wotho Atoll"
+    },
+    "wof:country":"MH",
+    "wof:created":1469050982,
+    "wof:geomhash":"23da2042658bd64527d3f40690c35d3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":890412933
+        }
+    ],
+    "wof:id":890412933,
+    "wof:lastmodified":1527727261,
+    "wof:name":"Wotho Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":145,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.98299,
+    10.10315,
+    165.98299,
+    10.10315
+],
+  "geometry": {"coordinates":[165.98299,10.10315],"type":"Point"}
+}

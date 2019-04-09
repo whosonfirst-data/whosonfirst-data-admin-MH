@@ -1,0 +1,66 @@
+{
+  "id": 1327470501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.54954,7.43896,168.54954,7.43896",
+    "geom:latitude":7.43896,
+    "geom:longitude":168.54954,
+    "gn:admin1_code":"010",
+    "gn:asciiname":"Woja",
+    "gn:cc2":"MH",
+    "gn:country_code":"MH",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2080486,
+    "gn:latitude":7.43896,
+    "gn:longitude":168.54954,
+    "gn:modification_date":"2011-07-13",
+    "gn:name":"Woja",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaamo-To",
+        "Yaamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2080486
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"7fbff1b144386efc92b5f43e44d34c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1327470501,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327470501,
+    "wof:lastmodified":1537664833,
+    "wof:name":"Woja",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.54953999999995,
+    7.43896,
+    168.54953999999995,
+    7.43896
+],
+  "geometry": {"coordinates":[168.54953999999995,7.43896],"type":"Point"}
+}

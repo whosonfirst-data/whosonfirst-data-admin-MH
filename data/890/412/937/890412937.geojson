@@ -1,0 +1,121 @@
+{
+  "id": 890412937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"165.62525,9.08735,165.62525,9.08735",
+    "geom:latitude":9.08735,
+    "geom:longitude":165.62525,
+    "gn:country":"MH",
+    "gn:fcode":"ATOL",
+    "gn:pop":440,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "name:chi_x_preferred":[
+        "\u70cf\u8cc8\u74b0\u7901"
+    ],
+    "name:dut_x_preferred":[
+        "Ujae Atoll"
+    ],
+    "name:eng_x_preferred":[
+        "Ujae Atoll"
+    ],
+    "name:fin_x_preferred":[
+        "Ujae"
+    ],
+    "name:fre_x_preferred":[
+        "Ujae"
+    ],
+    "name:ger_x_preferred":[
+        "Ujae"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Ujae"
+    ],
+    "name:hrv_x_preferred":[
+        "Ujae"
+    ],
+    "name:ind_x_preferred":[
+        "Atol Ujae"
+    ],
+    "name:ita_x_preferred":[
+        "Ujae"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30b8\u30e3\u30a8\u74b0\u7901"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\uc790\uc5d0 \ud658\ucd08"
+    ],
+    "name:lit_x_preferred":[
+        "Ud\u017ea\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u0423\u045f\u0430\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Ujae"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0434\u0436\u0430\u044d"
+    ],
+    "name:spa_x_preferred":[
+        "Ujae"
+    ],
+    "name:swe_x_preferred":[
+        "Ujae"
+    ],
+    "name:unk_x_variant":[
+        "Katharine Atoll"
+    ],
+    "qs:name":"Ujae Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":236,
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2079889,
+        "gp:id":90874681,
+        "qs:id":571848,
+        "wd:id":"Q697802",
+        "wk:page":"Ujae Atoll"
+    },
+    "wof:country":"MH",
+    "wof:created":1469050982,
+    "wof:geomhash":"167286d2009e39141561ffacf1619d58",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":890412937
+        }
+    ],
+    "wof:id":890412937,
+    "wof:lastmodified":1527727261,
+    "wof:name":"Ujae Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":440,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    165.62525,
+    9.08735,
+    165.62525,
+    9.08735
+],
+  "geometry": {"coordinates":[165.62524999999999,9.08735],"type":"Point"}
+}

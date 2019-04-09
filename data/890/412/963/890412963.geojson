@@ -1,0 +1,67 @@
+{
+  "id": 890412963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.309,9.182,167.309,9.182",
+    "geom:latitude":9.182,
+    "geom:longitude":167.309,
+    "gn:country":"MH",
+    "gn:fcode":"ATOL",
+    "gn:pop":10902,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Dove"
+    ],
+    "qs:name":"Kwajalein Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":7694,
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2080283,
+        "gp:id":56618723,
+        "qs:id":571861,
+        "wd:id":"Q309172",
+        "wk:page":"Kwajalein Atoll"
+    },
+    "wof:country":"MH",
+    "wof:created":1469050983,
+    "wof:geomhash":"ca1cf73e8f561945121b53d1d9198972",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":890412963
+        }
+    ],
+    "wof:id":890412963,
+    "wof:lastmodified":1527727261,
+    "wof:name":"Kwajalein Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":10902,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.309,
+    9.182,
+    167.309,
+    9.182
+],
+  "geometry": {"coordinates":[167.309,9.182],"type":"Point"}
+}

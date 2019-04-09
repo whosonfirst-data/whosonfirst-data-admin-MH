@@ -1,0 +1,120 @@
+{
+  "id": 890412931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.02358,9.5134,170.02358,9.5134",
+    "geom:latitude":9.5134,
+    "geom:longitude":170.02358,
+    "gn:country":"MH",
+    "gn:fcode":"ATOL",
+    "gn:pop":866,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "name:chi_x_preferred":[
+        "\u6c83\u7279\u5091\u74b0\u7901"
+    ],
+    "name:dut_x_preferred":[
+        "Wotje Atoll"
+    ],
+    "name:eng_x_preferred":[
+        "Wotje Atoll"
+    ],
+    "name:fin_x_preferred":[
+        "Wotje"
+    ],
+    "name:fre_x_preferred":[
+        "Wotje"
+    ],
+    "name:ger_x_preferred":[
+        "Wotje"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Wotje"
+    ],
+    "name:ita_x_preferred":[
+        "Wotje"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a6\u30a9\u30c3\u30b8\u30a7\u74b0\u7901"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6df\uc81c \ud658\ucd08"
+    ],
+    "name:lit_x_preferred":[
+        "Votj\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u0412\u043e\u0442\u0458\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Wotje"
+    ],
+    "name:por_x_preferred":[
+        "Atol Wotje"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0442\u044c\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Wotje"
+    ],
+    "name:swe_x_preferred":[
+        "Wotje"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u043e\u0442\u044c\u0454"
+    ],
+    "name:unk_x_variant":[
+        "Chatham Islands"
+    ],
+    "qs:name":"Wotje Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":877,
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2079842,
+        "qs:id":571845,
+        "wd:id":"Q518210",
+        "wk:page":"Wotje Atoll"
+    },
+    "wof:country":"MH",
+    "wof:created":1469050982,
+    "wof:geomhash":"444c0564c3eb9e7c003ef597d0e6ca90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":890412931
+        }
+    ],
+    "wof:id":890412931,
+    "wof:lastmodified":1527727261,
+    "wof:name":"Wotje Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":866,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.02358,
+    9.5134,
+    170.02358,
+    9.5134
+],
+  "geometry": {"coordinates":[170.02358000000001,9.5134],"type":"Point"}
+}

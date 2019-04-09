@@ -1,0 +1,64 @@
+{
+  "id": 1343692187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.17527,8.76735,171.17527,8.76735",
+    "geom:latitude":8.76735,
+    "geom:longitude":171.17527,
+    "gn:admin1_code":"300",
+    "gn:asciiname":"Wolot",
+    "gn:country_code":"MH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2080663,
+    "gn:latitude":8.76735,
+    "gn:longitude":171.17527,
+    "gn:modification_date":"2011-07-13",
+    "gn:name":"Wolot",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ollet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2080663
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"ff9e04915c9a514fd4b1af667f46972d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343692187,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343692187,
+    "wof:lastmodified":1537664833,
+    "wof:name":"Wolot",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.17526999999995,
+    8.76735,
+    171.17526999999995,
+    8.76735
+],
+  "geometry": {"coordinates":[171.17526999999995,8.76735],"type":"Point"}
+}

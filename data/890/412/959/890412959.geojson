@@ -1,0 +1,67 @@
+{
+  "id": 890412959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.3786,8.31444,167.3786,8.31444",
+    "geom:latitude":8.31444,
+    "geom:longitude":167.3786,
+    "gn:country":"MH",
+    "gn:fcode":"ISL",
+    "gn:pop":147,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "Elleb"
+    ],
+    "qs:name":"Lib Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wd:wordcount":163,
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2080256,
+        "gp:id":12515490,
+        "qs:id":571859,
+        "wd:id":"Q376862",
+        "wk:page":"Lib Island"
+    },
+    "wof:country":"MH",
+    "wof:created":1469050983,
+    "wof:geomhash":"b92ae86fdeb96e5845d39d3e4c0d2c88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":890412959
+        }
+    ],
+    "wof:id":890412959,
+    "wof:lastmodified":1527727261,
+    "wof:name":"Lib Island",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":147,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.3786,
+    8.31444,
+    167.3786,
+    8.31444
+],
+  "geometry": {"coordinates":[167.37860000000001,8.31444],"type":"Point"}
+}

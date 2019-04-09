@@ -1,0 +1,124 @@
+{
+  "id": 890428737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.13695,8.18685,171.13695,8.18685",
+    "geom:latitude":8.18685,
+    "geom:longitude":171.13695,
+    "gn:country":"MH",
+    "gn:fcode":"ATOL",
+    "gn:pop":537,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "name:chi_x_preferred":[
+        "\u5967\u723e\u74b0\u7901"
+    ],
+    "name:dut_x_preferred":[
+        "Aur Atoll"
+    ],
+    "name:eng_x_preferred":[
+        "Aur Atoll"
+    ],
+    "name:fin_x_preferred":[
+        "Aur"
+    ],
+    "name:fre_x_preferred":[
+        "Aur"
+    ],
+    "name:ger_x_preferred":[
+        "Aur"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Aur"
+    ],
+    "name:hun_x_preferred":[
+        "Aur Atoll"
+    ],
+    "name:ind_x_preferred":[
+        "Atol Aur"
+    ],
+    "name:ita_x_preferred":[
+        "Aur"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30fc\u30eb\u74b0\u7901"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc6b0\ub974 \ud658\ucd08"
+    ],
+    "name:lit_x_preferred":[
+        "Auras"
+    ],
+    "name:mac_x_preferred":[
+        "\u0410\u0443\u0440"
+    ],
+    "name:pol_x_preferred":[
+        "Aur"
+    ],
+    "name:por_x_preferred":[
+        "Aur"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0443\u0440"
+    ],
+    "name:spa_x_preferred":[
+        "Aur"
+    ],
+    "name:swe_x_preferred":[
+        "Aur"
+    ],
+    "name:unk_x_variant":[
+        "Traversey Islands"
+    ],
+    "qs:name":"Aur Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":168,
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2080917,
+        "gp:id":90874555,
+        "qs:id":571869,
+        "wd:id":"Q260549",
+        "wk:page":"Aur Atoll"
+    },
+    "wof:country":"MH",
+    "wof:created":1469051768,
+    "wof:geomhash":"d794eabdf36505260b8d5d2a6af0c206",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":890428737
+        }
+    ],
+    "wof:id":890428737,
+    "wof:lastmodified":1527782114,
+    "wof:name":"Aur Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":537,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.13695,
+    8.18685,
+    171.13695,
+    8.18685
+],
+  "geometry": {"coordinates":[171.13695000000001,8.18685],"type":"Point"}
+}

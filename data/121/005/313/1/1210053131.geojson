@@ -1,0 +1,64 @@
+{
+  "id": 1210053131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.05491,6.01607,172.05491,6.01607",
+    "geom:latitude":6.01607,
+    "geom:longitude":172.05491,
+    "gn:admin1_code":"320",
+    "gn:asciiname":"Likej",
+    "gn:country_code":"MH",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7304102,
+    "gn:latitude":6.01607,
+    "gn:longitude":172.05491,
+    "gn:modification_date":"2010-07-28",
+    "gn:name":"Likej",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7304102
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"baa6991df6ec489b04b9227b8145fbb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632663,
+            "locality_id":1210053131,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210053131,
+    "wof:lastmodified":1536371372,
+    "wof:name":"Likej",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.05491,
+    6.01607,
+    172.05491,
+    6.01607
+],
+  "geometry": {"coordinates":[172.05491000000001,6.01607],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1259910775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.02925,6.02875,172.02925,6.02875",
+    "geom:latitude":6.02875,
+    "geom:longitude":172.02925,
+    "gn:admin1_code":"320",
+    "gn:asciiname":"Enewa",
+    "gn:country_code":"MH",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2080838,
+    "gn:latitude":6.02875,
+    "gn:longitude":172.02925,
+    "gn:modification_date":"2010-07-28",
+    "gn:name":"Enewa",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2080838
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"867a73d2f865747577885ddc1e71d674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632663,
+            "locality_id":1259910775,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259910775,
+    "wof:lastmodified":1536739799,
+    "wof:name":"Enewa",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.02925,
+    6.02875,
+    172.02925,
+    6.02875
+],
+  "geometry": {"coordinates":[172.02924999999999,6.02875],"type":"Point"}
+}

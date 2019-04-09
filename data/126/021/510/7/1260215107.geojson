@@ -1,0 +1,64 @@
+{
+  "id": 1260215107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.67131,6.0564,169.67131,6.0564",
+    "geom:latitude":6.0564,
+    "geom:longitude":169.67131,
+    "gn:admin1_code":"120",
+    "gn:asciiname":"Ajejen",
+    "gn:country_code":"MH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7304120,
+    "gn:latitude":6.0564,
+    "gn:longitude":169.67131,
+    "gn:modification_date":"2010-07-29",
+    "gn:name":"Ajejen",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7304120
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"8864c0b924f7a94db6cc8c72f4645f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632663,
+            "locality_id":1260215107,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260215107,
+    "wof:lastmodified":1536804661,
+    "wof:name":"Ajejen",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.67131,
+    6.0564,
+    169.67131,
+    6.0564
+],
+  "geometry": {"coordinates":[169.67131000000001,6.0564],"type":"Point"}
+}

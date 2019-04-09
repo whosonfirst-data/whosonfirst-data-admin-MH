@@ -1,0 +1,61 @@
+{
+  "id": 1276586951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.27241,9.88997,169.27241,9.88997",
+    "geom:latitude":9.88997,
+    "geom:longitude":169.27241,
+    "gn:admin1_code":"180",
+    "gn:asciiname":"Jebal",
+    "gn:country_code":"MH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4040079,
+    "gn:latitude":9.88997,
+    "gn:longitude":169.27241,
+    "gn:modification_date":"2010-07-29",
+    "gn:name":"Jebal",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4040079
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"5862c06c28ffa58a148af7612b6a30c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276586951,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276586951,
+    "wof:lastmodified":1536937135,
+    "wof:name":"Jebal",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.27241,
+    9.88997,
+    169.27241,
+    9.88997
+],
+  "geometry": {"coordinates":[169.27241000000001,9.88997],"type":"Point"}
+}

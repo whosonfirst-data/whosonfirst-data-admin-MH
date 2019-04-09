@@ -1,0 +1,64 @@
+{
+  "id": 1360218467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.12109,5.64387,169.12109,5.64387",
+    "geom:latitude":5.64387,
+    "geom:longitude":169.12109,
+    "gn:admin1_code":"140",
+    "gn:asciiname":"Kili",
+    "gn:country_code":"MH",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":7306525,
+    "gn:latitude":5.64387,
+    "gn:longitude":169.12109,
+    "gn:modification_date":"2013-04-03",
+    "gn:name":"Kili",
+    "gn:population":602,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7306525
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"f79e55d0821708e9bedf51e4d1177f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1360218467,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1360218467,
+    "wof:lastmodified":1536753245,
+    "wof:name":"Kili",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":602,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.12108999999995,
+    5.64387,
+    169.12108999999995,
+    5.64387
+],
+  "geometry": {"coordinates":[169.12108999999995,5.64387],"type":"Point"}
+}

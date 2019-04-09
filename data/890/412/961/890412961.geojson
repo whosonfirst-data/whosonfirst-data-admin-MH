@@ -1,0 +1,121 @@
+{
+  "id": 890412961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.23181,8.93408,166.23181,8.93408",
+    "geom:latitude":8.93408,
+    "geom:longitude":166.23181,
+    "gn:country":"MH",
+    "gn:fcode":"ATOL",
+    "gn:pop":322,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":1,
+    "name:chi_x_preferred":[
+        "\u62c9\u57c3\u74b0\u7901"
+    ],
+    "name:dut_x_preferred":[
+        "Lae Atoll"
+    ],
+    "name:eng_x_preferred":[
+        "Lae Atoll"
+    ],
+    "name:fin_x_preferred":[
+        "Lae"
+    ],
+    "name:fre_x_preferred":[
+        "Lae"
+    ],
+    "name:ger_x_preferred":[
+        "Lae-Atoll"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Lae"
+    ],
+    "name:hrv_x_preferred":[
+        "Lae"
+    ],
+    "name:ita_x_preferred":[
+        "Lae"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a8\u30fc\u74b0\u7901"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc5d0 \ud658\ucd08"
+    ],
+    "name:lit_x_preferred":[
+        "La\u0117"
+    ],
+    "name:mac_x_preferred":[
+        "\u041b\u0430\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Lea"
+    ],
+    "name:por_x_preferred":[
+        "Atol Lae"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u044d"
+    ],
+    "name:spa_x_preferred":[
+        "Lae"
+    ],
+    "name:swe_x_preferred":[
+        "Lae"
+    ],
+    "name:unk_x_variant":[
+        "Brown Island"
+    ],
+    "qs:name":"Lae Atoll",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":185,
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2080274,
+        "gp:id":90874681,
+        "qs:id":571860,
+        "wd:id":"Q741121",
+        "wk:page":"Lae Atoll"
+    },
+    "wof:country":"MH",
+    "wof:created":1469050983,
+    "wof:geomhash":"82d06c3c8517b21b2fdeb6a0a1970e93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":890412961
+        }
+    ],
+    "wof:id":890412961,
+    "wof:lastmodified":1553816391,
+    "wof:name":"Lae Atoll",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":322,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.23181,
+    8.93408,
+    166.23181,
+    8.93408
+],
+  "geometry": {"coordinates":[166.23181,8.93408],"type":"Point"}
+}

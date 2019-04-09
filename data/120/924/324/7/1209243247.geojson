@@ -1,0 +1,61 @@
+{
+  "id": 1209243247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"172.10873,6.09165,172.10873,6.09165",
+    "geom:latitude":6.09165,
+    "geom:longitude":172.10873,
+    "gn:admin1_code":"320",
+    "gn:asciiname":"Wau",
+    "gn:country_code":"MH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7304103,
+    "gn:latitude":6.09165,
+    "gn:longitude":172.10873,
+    "gn:modification_date":"2010-07-28",
+    "gn:name":"Wau",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7304103
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"bbd5dd84470c19758fcd5cf589f8a84e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":1209243247
+        }
+    ],
+    "wof:id":1209243247,
+    "wof:lastmodified":1536293250,
+    "wof:name":"Wau",
+    "wof:parent_id":85632663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    172.10873,
+    6.09165,
+    172.10873,
+    6.09165
+],
+  "geometry": {"coordinates":[172.10873000000001,6.09165],"type":"Point"}
+}

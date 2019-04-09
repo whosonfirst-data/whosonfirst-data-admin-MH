@@ -1,0 +1,88 @@
+{
+  "id": 421203359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.23333,8.93333,166.23333,8.93333",
+    "geom:latitude":8.93333,
+    "geom:longitude":166.23333,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Lae"
+    ],
+    "qs:gn_country":"MH",
+    "qs:gn_fcode":"ADM1",
+    "qs:gn_id":7303503,
+    "qs:gn_pop":322,
+    "qs:name":"Lae",
+    "qs:name_adm0":"Marshall Islands",
+    "qs:name_adm1":"Lae",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"State",
+    "qs:pop_sr":"2",
+    "qs:qs_id":59684,
+    "qs:woe_adm0":23424932,
+    "qs:woe_id":24549847,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7303503,
+        "gp:id":24549847,
+        "qs:id":59684,
+        "wd:id":"Q741121",
+        "wk:page":"Lae Atoll"
+    },
+    "wof:country":"MH",
+    "wof:created":1459010148,
+    "wof:geomhash":"5660ce252394a7878f9f3f40aced1ca9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "region_id":421203359
+        }
+    ],
+    "wof:id":421203359,
+    "wof:lang_x_official":[
+        "eng",
+        "mah"
+    ],
+    "wof:lang_x_spoken":[
+        "eng",
+        "mah"
+    ],
+    "wof:lastmodified":1529541198,
+    "wof:name":"Lae",
+    "wof:parent_id":-1,
+    "wof:placetype":"region",
+    "wof:population":322,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.23333,
+    8.93333,
+    166.23333,
+    8.93333
+],
+  "geometry": {"coordinates":[166.23333,8.93333],"type":"Point"}
+}

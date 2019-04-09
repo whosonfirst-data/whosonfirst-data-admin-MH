@@ -1,0 +1,65 @@
+{
+  "id": 1260010553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.84092,8.88829,170.84092,8.88829",
+    "geom:latitude":8.88829,
+    "geom:longitude":170.84092,
+    "gn:admin1_code":"300",
+    "gn:asciiname":"Kaven",
+    "gn:country_code":"MH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4040698,
+    "gn:latitude":8.88829,
+    "gn:longitude":170.84092,
+    "gn:modification_date":"2010-07-30",
+    "gn:name":"Kaven",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632663,
+        85674143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4040698
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"89bd5180d6e1d8d3dfcd7665e1965951",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632663,
+            "locality_id":1260010553,
+            "region_id":85674143
+        }
+    ],
+    "wof:id":1260010553,
+    "wof:lastmodified":1537089860,
+    "wof:name":"Kaven",
+    "wof:parent_id":85674143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.84091999999995,
+    8.88829,
+    170.84091999999995,
+    8.88829
+],
+  "geometry": {"coordinates":[170.84091999999995,8.88829],"type":"Point"}
+}

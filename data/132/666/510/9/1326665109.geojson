@@ -1,0 +1,64 @@
+{
+  "id": 1326665109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"171.87585,6.07006,171.87585,6.07006",
+    "geom:latitude":6.07006,
+    "geom:longitude":171.87585,
+    "gn:admin1_code":"320",
+    "gn:asciiname":"Kearkan",
+    "gn:country_code":"MH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":2080973,
+    "gn:latitude":6.07006,
+    "gn:longitude":171.87585,
+    "gn:modification_date":"2010-07-28",
+    "gn:name":"Kearkan",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2080973
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"4add967cfc48d7631d03230a75443eec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632663,
+            "locality_id":1326665109,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326665109,
+    "wof:lastmodified":1536792774,
+    "wof:name":"Kearkan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    171.87585,
+    6.07006,
+    171.87585,
+    6.07006
+],
+  "geometry": {"coordinates":[171.87585000000001,6.07006],"type":"Point"}
+}

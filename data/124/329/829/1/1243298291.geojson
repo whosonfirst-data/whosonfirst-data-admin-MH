@@ -1,0 +1,65 @@
+{
+  "id": 1243298291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.14938,9.55124,170.14938,9.55124",
+    "geom:latitude":9.55124,
+    "geom:longitude":170.14938,
+    "gn:admin1_code":"430",
+    "gn:asciiname":"Wodmej",
+    "gn:country_code":"MH",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4039813,
+    "gn:latitude":9.55124,
+    "gn:longitude":170.14938,
+    "gn:modification_date":"2010-07-26",
+    "gn:name":"Wodmej",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632663,
+        85674143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4039813
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"a0918f9a028e57cf510f9ce3c3d5a717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632663,
+            "locality_id":1243298291,
+            "region_id":85674143
+        }
+    ],
+    "wof:id":1243298291,
+    "wof:lastmodified":1537018284,
+    "wof:name":"Wodmej",
+    "wof:parent_id":85674143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.14938,
+    9.55124,
+    170.14938,
+    9.55124
+],
+  "geometry": {"coordinates":[170.14938000000001,9.55124],"type":"Point"}
+}

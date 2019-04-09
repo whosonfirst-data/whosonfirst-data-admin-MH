@@ -1,0 +1,64 @@
+{
+  "id": 1259914143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"160.96915,9.76981,160.96915,9.76981",
+    "geom:latitude":9.76981,
+    "geom:longitude":160.96915,
+    "gn:admin1_code":"400",
+    "gn:asciiname":"Eniwetak inhabitants temp settlement 1947-80",
+    "gn:country_code":"MH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7304354,
+    "gn:latitude":9.76981,
+    "gn:longitude":160.96915,
+    "gn:modification_date":"2011-07-12",
+    "gn:name":"Eniwetak inhabitants temp settlement 1947-80",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7304354
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"22f5ed1560555d9962c1772954226061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632663,
+            "locality_id":1259914143,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259914143,
+    "wof:lastmodified":1536735133,
+    "wof:name":"Eniwetak inhabitants temp settlement 1947-80",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    160.96915,
+    9.76981,
+    160.96915,
+    9.76981
+],
+  "geometry": {"coordinates":[160.96915000000001,9.76981],"type":"Point"}
+}

@@ -1,0 +1,114 @@
+{
+  "id": 421204555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.73806,8.77889,167.73806,8.77889",
+    "geom:latitude":8.77889,
+    "geom:longitude":167.73806,
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bul_x_preferred":[
+        "\u0415\u0431\u0435\u0439\u0435"
+    ],
+    "name:chi_x_preferred":[
+        "\u4f0a\u62dc\u5c9b"
+    ],
+    "name:cze_x_preferred":[
+        "Ebeye"
+    ],
+    "name:deu_x_preferred":[
+        "Ebeye"
+    ],
+    "name:dut_x_preferred":[
+        "Ebeye Island"
+    ],
+    "name:eng_x_preferred":[
+        "Ebeye"
+    ],
+    "name:est_x_preferred":[
+        "Ebeye"
+    ],
+    "name:fra_x_preferred":[
+        "Ebeye"
+    ],
+    "name:fre_x_preferred":[
+        "Ebeye"
+    ],
+    "name:ger_x_preferred":[
+        "Ebeye"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30fc\u30d0\u30a4\u5cf6"
+    ],
+    "name:nds_x_preferred":[
+        "Ebeye"
+    ],
+    "name:pol_x_preferred":[
+        "Ebeye"
+    ],
+    "name:swe_x_preferred":[
+        "Ebeye"
+    ],
+    "qs:gn_country":"MH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":6806225,
+    "qs:gn_pop":0,
+    "qs:name":"Ebeye",
+    "qs:name_adm0":"Marshall Islands",
+    "qs:name_adm1":"Kwajalein",
+    "qs:photos":421,
+    "qs:photos_1k":85,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":421,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":241672,
+    "qs:woe_adm0":23424932,
+    "qs:woe_id":28718595,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6806225,
+        "gp:id":28718595,
+        "qs:id":241672,
+        "wd:id":"Q486670",
+        "wk:page":"Ebeye Island"
+    },
+    "wof:country":"MH",
+    "wof:created":1459010190,
+    "wof:geomhash":"eaf76fb7d42209b41b40e165ed770f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85632663,
+            "locality_id":421204555
+        }
+    ],
+    "wof:id":421204555,
+    "wof:lastmodified":1514484670,
+    "wof:name":"Ebeye",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.73806,
+    8.77889,
+    167.73806,
+    8.77889
+],
+  "geometry": {"coordinates":[167.73805999999999,8.77889],"type":"Point"}
+}

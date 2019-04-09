@@ -1,0 +1,67 @@
+{
+  "id": 1343295781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.43167,5.95073,169.43167,5.95073",
+    "geom:latitude":5.95073,
+    "geom:longitude":169.43167,
+    "gn:admin1_code":"120",
+    "gn:asciiname":"Pinglep",
+    "gn:country_code":"MH",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7304127,
+    "gn:latitude":5.95073,
+    "gn:longitude":169.43167,
+    "gn:modification_date":"2011-07-13",
+    "gn:name":"Pinglep",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pinglap"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7304127
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"bd3586c15cf41b9066244d12db482c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632663,
+            "locality_id":1343295781,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343295781,
+    "wof:lastmodified":1537664834,
+    "wof:name":"Pinglep",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.43167,
+    5.95073,
+    169.43167,
+    5.95073
+],
+  "geometry": {"coordinates":[169.43167,5.95073],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1309740683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.10666,5.59561,168.10666,5.59561",
+    "geom:latitude":5.59561,
+    "geom:longitude":168.10666,
+    "gn:admin1_code":"330",
+    "gn:asciiname":"Namdrik",
+    "gn:country_code":"MH",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7303933,
+    "gn:latitude":5.59561,
+    "gn:longitude":168.10666,
+    "gn:modification_date":"2011-07-13",
+    "gn:name":"Namdrik",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Majuro",
+    "iso:country":"MH",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7303933
+    },
+    "wof:country":"MH",
+    "wof:geomhash":"ff171384c09c4859256df936bb7cb7db",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1309740683,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309740683,
+    "wof:lastmodified":1537024028,
+    "wof:name":"Namdrik",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mh",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.10666,
+    5.59561,
+    168.10666,
+    5.59561
+],
+  "geometry": {"coordinates":[168.10666000000001,5.59561],"type":"Point"}
+}
