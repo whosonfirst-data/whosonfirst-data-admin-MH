@@ -19,11 +19,8 @@
     "name:bel_x_preferred":[
         "\u0410\u0442\u043e\u043b \u042d\u0431\u043e\u043d"
     ],
-    "name:chi_x_preferred":[
-        "\u57c3\u5d29\u74b0\u7901"
-    ],
-    "name:dut_x_preferred":[
-        "Ebon Atoll"
+    "name:deu_x_preferred":[
+        "Ebon-Atoll"
     ],
     "name:eng_x_preferred":[
         "Ebon Atoll"
@@ -34,11 +31,8 @@
     "name:fin_x_preferred":[
         "Ebon"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ebon"
-    ],
-    "name:ger_x_preferred":[
-        "Ebon-Atoll"
     ],
     "name:glg_x_preferred":[
         "Atol Ebon"
@@ -64,8 +58,11 @@
     "name:lit_x_preferred":[
         "Ebonas"
     ],
-    "name:mac_x_preferred":[
+    "name:mkd_x_preferred":[
         "\u0415\u0431\u043e\u043d"
+    ],
+    "name:nld_x_preferred":[
+        "Ebon Atoll"
     ],
     "name:rus_x_preferred":[
         "\u042d\u0431\u043e\u043d"
@@ -78,6 +75,9 @@
     ],
     "name:unk_x_variant":[
         "Fourteen Islands"
+    ],
+    "name:zho_x_preferred":[
+        "\u57c3\u5d29\u74b0\u7901"
     ],
     "qs:name":"Ebon Atoll",
     "qs:photos_9r":0,
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":890428733,
-    "wof:lastmodified":1527782117,
+    "wof:lastmodified":1561841668,
     "wof:name":"Ebon Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

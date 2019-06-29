@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000251,
-    "geom:area_square_m":3076769.849529,
+    "geom:area_square_m":3076769.849513,
     "geom:bbox":"171.354896533,7.08203475771,171.384461789,7.12630889006",
     "geom:latitude":7.101072,
     "geom:longitude":171.370914,
@@ -22,29 +22,23 @@
     "name:afr_x_preferred":[
         "Majuro"
     ],
-    "name:alb_x_preferred":[
-        "Majuro"
-    ],
     "name:amh_x_preferred":[
         "\u121b\u1301\u122e"
     ],
     "name:ara_x_preferred":[
         "\u0645\u0627\u062c\u0648\u0631\u0648"
     ],
-    "name:arm_x_preferred":[
-        "\u0544\u0561\u057b\u0578\u0582\u0580\u0578"
-    ],
     "name:aze_x_preferred":[
         "Macuro"
-    ],
-    "name:baq_x_preferred":[
-        "Majuro"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0430\u0434\u0436\u0443\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u099c\u09c1\u09b0\u09cb"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f58\u0f0b\u0f47\u0f74\u0f0b\u0f62\u0f7c\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Majuro"
@@ -58,10 +52,10 @@
     "name:cat_x_preferred":[
         "Majuro"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u4e45\u7f85"
+    "name:ces_x_preferred":[
+        "Majuro"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Majuro"
     ],
     "name:dan_x_preferred":[
@@ -70,11 +64,14 @@
     "name:deu_x_preferred":[
         "Majuro"
     ],
-    "name:dut_x_preferred":[
-        "Majuro"
+    "name:deu_x_variant":[
+        "Majuro-Atoll"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03b1\u03b6\u03bf\u03cd\u03c1\u03bf"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03b1\u03c4\u03b6\u03bf\u03cd\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Majuro"
@@ -85,32 +82,26 @@
     "name:est_x_preferred":[
         "Majuro atoll"
     ],
+    "name:eus_x_preferred":[
+        "Majuro"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u062c\u0648\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "Majuro"
     ],
     "name:fra_x_preferred":[
         "Majuro"
     ],
-    "name:fre_x_preferred":[
-        "Majuro"
-    ],
     "name:fry_x_preferred":[
         "Majuro"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d0\u10ef\u10e3\u10e0\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Majuro-Atoll"
     ],
     "name:gla_x_preferred":[
         "Majuro"
     ],
     "name:glg_x_preferred":[
         "Majuro"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c4\u03b6\u03bf\u03cd\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0a9c\u0ac1\u0ab0\u0acb"
@@ -133,8 +124,8 @@
     "name:hun_x_preferred":[
         "Majuro"
     ],
-    "name:ice_x_preferred":[
-        "Maj\u00far\u00f3"
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u057b\u0578\u0582\u0580\u0578"
     ],
     "name:ido_x_preferred":[
         "Majuro"
@@ -145,6 +136,9 @@
     "name:ind_x_preferred":[
         "Majuro"
     ],
+    "name:isl_x_preferred":[
+        "Maj\u00far\u00f3"
+    ],
     "name:ita_x_preferred":[
         "Majuro"
     ],
@@ -153,6 +147,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cae\u0c9c\u0cc1\u0cb0\u0cca"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d0\u10ef\u10e3\u10e0\u10dd"
     ],
     "name:kin_x_preferred":[
         "Majuro"
@@ -175,13 +172,13 @@
     "name:ltz_x_preferred":[
         "Majuro"
     ],
-    "name:mac_x_preferred":[
-        "\u041c\u0430\u045f\u0443\u0440\u043e"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u093e\u091c\u0941\u0930\u094b"
     ],
-    "name:may_x_preferred":[
+    "name:mkd_x_preferred":[
+        "\u041c\u0430\u045f\u0443\u0440\u043e"
+    ],
+    "name:msa_x_preferred":[
         "Majuro"
     ],
     "name:nah_x_preferred":[
@@ -192,6 +189,9 @@
     ],
     "name:nds_x_preferred":[
         "Majuro-Atoll"
+    ],
+    "name:nld_x_preferred":[
+        "Majuro"
     ],
     "name:nno_x_preferred":[
         "Majuro"
@@ -211,16 +211,13 @@
     "name:pan_x_preferred":[
         "\u0a2e\u0a3e\u0a1c\u0a41\u0a30\u0a4b"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u062c\u0648\u0631\u0648"
-    ],
     "name:pol_x_preferred":[
         "Majuro"
     ],
     "name:por_x_preferred":[
         "Majuro"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Majuro"
     ],
     "name:rus_x_preferred":[
@@ -235,7 +232,7 @@
     "name:sin_x_preferred":[
         "\u0db8\u0da2\u0dd4\u0dbb\u0ddd"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dalap-Uliga-Darrit"
     ],
     "name:slv_x_preferred":[
@@ -245,6 +242,9 @@
         "Majuro"
     ],
     "name:spa_x_preferred":[
+        "Majuro"
+    ],
+    "name:sqi_x_preferred":[
         "Majuro"
     ],
     "name:srp_x_preferred":[
@@ -271,9 +271,6 @@
     "name:tha_x_preferred":[
         "\u0e21\u0e32\u0e08\u0e39\u0e42\u0e23"
     ],
-    "name:tib_x_preferred":[
-        "\u0f58\u0f0b\u0f47\u0f74\u0f0b\u0f62\u0f7c\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Majuro"
     ],
@@ -292,11 +289,11 @@
     "name:war_x_preferred":[
         "Majuro"
     ],
-    "name:wel_x_preferred":[
-        "Majuro"
-    ],
     "name:yue_x_preferred":[
         "\u99ac\u7956\u76e7"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u4e45\u7f85"
     ],
     "ne:ADM0CAP":1.0,
     "ne:ADM0NAME":"Marshall Islands",
@@ -417,7 +414,7 @@
     },
     "wof:country":"MH",
     "wof:created":1469052780,
-    "wof:geomhash":"cb8477f442e96cbf0b773b2cea0c442b",
+    "wof:geomhash":"2f4941ab2f55fb4c609d728d89d4f5e9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -427,7 +424,7 @@
         }
     ],
     "wof:id":890451463,
-    "wof:lastmodified":1552689274,
+    "wof:lastmodified":1561841668,
     "wof:name":"Majuro",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -440,7 +437,7 @@
 },
   "bbox": [
     171.35489653341904,
-    7.082034757714617,
+    7.08203475771462,
     171.38446178901214,
     7.12630889005816
 ],
