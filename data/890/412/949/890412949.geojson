@@ -16,8 +16,68 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "name:cat_x_preferred":[
+        "Mejit"
+    ],
+    "name:ceb_x_preferred":[
+        "Mejit Island"
+    ],
+    "name:deu_x_preferred":[
+        "Mejit"
+    ],
+    "name:eng_x_preferred":[
+        "Mejit Island"
+    ],
+    "name:fas_x_preferred":[
+        "\u0622\u0628\u200c\u0633\u0646\u06af \u062d\u0644\u0642\u0648\u06cc \u0645\u06cc\u062c\u06cc\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Mejit"
+    ],
+    "name:fra_x_preferred":[
+        "Mejit"
+    ],
+    "name:glg_x_preferred":[
+        "Illa Mejit"
+    ],
+    "name:ind_x_preferred":[
+        "Pulau Mejit"
+    ],
+    "name:ita_x_preferred":[
+        "Mejit"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e1\u30b8\u30c3\u30c8\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\uba54\uc9c0\ud2b8\uc12c"
+    ],
+    "name:lit_x_preferred":[
+        "Med\u017eitas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u045f\u0438\u0442"
+    ],
+    "name:nld_x_preferred":[
+        "Mejit Island"
+    ],
+    "name:pol_x_preferred":[
+        "Mejit"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0435\u0434\u0436\u0438\u0442"
+    ],
+    "name:spa_x_preferred":[
+        "Mejit"
+    ],
+    "name:swe_x_preferred":[
+        "Mejit"
+    ],
     "name:unk_x_variant":[
         "Mejichi-t\u014d"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5409\u7279\u5cf6"
     ],
     "qs:name":"Mejit Island",
     "qs:photos_9r":0,
@@ -45,7 +105,7 @@
         }
     ],
     "wof:id":890412949,
-    "wof:lastmodified":1527727261,
+    "wof:lastmodified":1563253454,
     "wof:name":"Mejit Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

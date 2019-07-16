@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "name:ceb_x_preferred":[
+        "Wotje Atoll"
+    ],
     "name:deu_x_preferred":[
         "Wotje"
     ],
@@ -29,6 +32,9 @@
         "Wotje"
     ],
     "name:glg_x_preferred":[
+        "Atol Wotje"
+    ],
+    "name:ind_x_preferred":[
         "Atol Wotje"
     ],
     "name:ita_x_preferred":[
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":890412931,
-    "wof:lastmodified":1561841667,
+    "wof:lastmodified":1563253449,
     "wof:name":"Wotje Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

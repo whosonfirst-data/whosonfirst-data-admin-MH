@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "name:ceb_x_preferred":[
+        "Likiep Atoll"
+    ],
     "name:deu_x_preferred":[
         "Likieb Inseln"
     ],
@@ -37,6 +40,9 @@
         "Likiep"
     ],
     "name:glg_x_preferred":[
+        "Atol Likiep"
+    ],
+    "name:ind_x_preferred":[
         "Atol Likiep"
     ],
     "name:ita_x_preferred":[
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":890412955,
-    "wof:lastmodified":1561841668,
+    "wof:lastmodified":1563253451,
     "wof:name":"Likiep Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

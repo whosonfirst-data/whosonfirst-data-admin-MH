@@ -15,8 +15,68 @@
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Lae"
+    ],
+    "name:deu_x_preferred":[
+        "Lae-Atoll"
+    ],
     "name:eng_x_preferred":[
         "Lae"
+    ],
+    "name:eng_x_variant":[
+        "Lae Atoll"
+    ],
+    "name:fin_x_preferred":[
+        "Lae"
+    ],
+    "name:fra_x_preferred":[
+        "Lae"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Lae"
+    ],
+    "name:hrv_x_preferred":[
+        "Lae"
+    ],
+    "name:ind_x_preferred":[
+        "Atol Lae"
+    ],
+    "name:ita_x_preferred":[
+        "Lae"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a8\u30fc\u74b0\u7901"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc5d0 \ud658\ucd08"
+    ],
+    "name:lit_x_preferred":[
+        "La\u0117"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u0435"
+    ],
+    "name:nld_x_preferred":[
+        "Lae Atoll"
+    ],
+    "name:pol_x_preferred":[
+        "Lea"
+    ],
+    "name:por_x_preferred":[
+        "Atol Lae"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u044d"
+    ],
+    "name:spa_x_preferred":[
+        "Lae"
+    ],
+    "name:swe_x_preferred":[
+        "Lae"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u57c3\u74b0\u7901"
     ],
     "qs:gn_country":"MH",
     "qs:gn_fcode":"ADM1",
@@ -67,7 +127,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1529541198,
+    "wof:lastmodified":1563253448,
     "wof:name":"Lae",
     "wof:parent_id":-1,
     "wof:placetype":"region",

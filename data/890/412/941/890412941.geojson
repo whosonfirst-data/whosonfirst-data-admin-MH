@@ -19,6 +19,9 @@
     "name:bel_x_preferred":[
         "\u0410\u0442\u043e\u043b \u0420\u0430\u043d\u0433\u0435\u043b\u0430\u043f"
     ],
+    "name:ceb_x_preferred":[
+        "Rongelap Atoll"
+    ],
     "name:deu_x_preferred":[
         "Rongelap-Atoll"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:hrv_x_preferred":[
         "Rongelap"
+    ],
+    "name:ind_x_preferred":[
+        "Atol Rongelap"
     ],
     "name:ita_x_preferred":[
         "Rongelap"
@@ -79,6 +85,9 @@
     "name:swe_x_preferred":[
         "Rongelap"
     ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0442\u043e\u043b \u0420\u043e\u043d\u0433\u0435\u043b\u0430\u043f"
+    ],
     "name:unk_x_variant":[
         "Grossrong"
     ],
@@ -114,7 +123,7 @@
         }
     ],
     "wof:id":890412941,
-    "wof:lastmodified":1561841668,
+    "wof:lastmodified":1563253452,
     "wof:name":"Rongelap Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
