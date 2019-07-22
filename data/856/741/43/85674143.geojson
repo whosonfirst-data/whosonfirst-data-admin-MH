@@ -19,8 +19,26 @@
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0644\u0633\u0644\u0629 \u0631\u0627\u062a\u0627\u0643"
+    ],
+    "name:ast_x_preferred":[
+        "Cadena Ratak"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b0\u09be\u09a4\u09be\u0995 \u099a\u09c7\u0987\u09a8"
+    ],
+    "name:ceb_x_preferred":[
+        "Ratak Chain"
+    ],
+    "name:dan_x_preferred":[
+        "Ratak-k\u00e6den"
+    ],
     "name:deu_x_preferred":[
         "Ratak-Kette"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a1\u03b1\u03c4\u03ac\u03ba \u03a4\u03c3\u03ad\u03b9\u03bd"
     ],
     "name:eng_x_preferred":[
         "Ratak Chain"
@@ -31,17 +49,32 @@
     "name:eus_x_preferred":[
         "Ratak Katea"
     ],
+    "name:fas_x_preferred":[
+        "\u0632\u0646\u062c\u06cc\u0631\u0647 \u0631\u0627\u062a\u0627\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Ratak"
     ],
     "name:fra_x_preferred":[
         "\u00celes Ratak"
     ],
+    "name:guj_x_preferred":[
+        "\u0ab0\u0abe\u0aa4\u0a95 \u0a9a\u0ac7\u0a87\u0aa8"
+    ],
     "name:hbs_x_preferred":[
         "Lanac Ratak"
     ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e8\u05e9\u05e8\u05ea \u05e8\u05d8\u05e7"
+    ],
+    "name:hin_x_preferred":[
+        "\u0930\u0924\u0915 \u091a\u0947\u0928"
+    ],
     "name:hrv_x_preferred":[
         "Ratak"
+    ],
+    "name:ind_x_preferred":[
+        "Ratak Chain"
     ],
     "name:ita_x_preferred":[
         "Isole Ratak"
@@ -49,20 +82,41 @@
     "name:jpn_x_preferred":[
         "\u30e9\u30bf\u30c3\u30af\u5217\u5cf6"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb0\u0c9f\u0cbe\u0c95\u0ccd \u0c9a\u0cc8\u0ca8\u0ccd"
+    ],
     "name:kat_x_preferred":[
         "\u10e0\u10d0\u10e2\u10d0\u10d9\u10d8\u10e1 \u10ef\u10d0\u10ed\u10d5\u10d8"
     ],
     "name:kor_x_preferred":[
         "\ub77c\ud0c0\ud06c \uc5f4\ub3c4"
     ],
+    "name:lav_x_preferred":[
+        "Rataku salas"
+    ],
     "name:lit_x_preferred":[
         "Ratako salos"
+    ],
+    "name:mar_x_preferred":[
+        "\u0930\u0924\u094d\u0915 \u091a\u0947\u0928"
     ],
     "name:mkd_x_preferred":[
         "\u0420\u0430\u0442\u0430\u0447\u043a\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
     ],
+    "name:msa_x_preferred":[
+        "Ratak Chain"
+    ],
+    "name:nld_x_preferred":[
+        "Ratak Chain"
+    ],
     "name:nno_x_preferred":[
         "Ratak"
+    ],
+    "name:nob_x_preferred":[
+        "Ratak Chain"
+    ],
+    "name:pol_x_preferred":[
+        "Ratak Chain"
     ],
     "name:por_x_preferred":[
         "Cadeia Ratak"
@@ -70,11 +124,41 @@
     "name:rus_x_preferred":[
         "\u0420\u0430\u0442\u0430\u043a"
     ],
+    "name:rus_x_variant":[
+        "\u0426\u0435\u043f\u044c \u0420\u0430\u0442\u0430\u043a"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbb\u0da7\u0d9a\u0dca \u0da0\u0dda\u0db1\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Ratak Chain"
+    ],
     "name:swe_x_preferred":[
         "Ratakgruppen"
     ],
+    "name:swe_x_variant":[
+        "Ratak\u00f6arna"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bbe\u0b9f\u0b95\u0bcd  \u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c30\u0c3e\u0c1f\u0c15\u0c4d \u0c1a\u0c48\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e41\u0e19\u0e27\u0e40\u0e01\u0e32\u0e30\u0e23\u0e32\u0e15\u0e31\u0e01"
+    ],
+    "name:tur_x_preferred":[
+        "Ratak Chain"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0430\u043d\u0446\u044e\u0433 \u0420\u0430\u0442\u0430\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u062a\u0627\u06a9 \u0686\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Chu\u1ed7i \u0111\u1ea3o Ratak"
     ],
     "name:zho_x_preferred":[
         "\u62c9\u5854\u514b\u7901\u93c8"
@@ -183,7 +267,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1536616624,
+    "wof:lastmodified":1563253433,
     "wof:name":"Ratak Chain",
     "wof:parent_id":85632663,
     "wof:placetype":"region",

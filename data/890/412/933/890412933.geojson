@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "name:ceb_x_preferred":[
+        "Wotho"
+    ],
     "name:deu_x_preferred":[
         "Wotho"
     ],
@@ -99,7 +102,7 @@
         }
     ],
     "wof:id":890412933,
-    "wof:lastmodified":1561841668,
+    "wof:lastmodified":1563253458,
     "wof:name":"Wotho Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
