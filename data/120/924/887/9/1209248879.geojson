@@ -25,8 +25,62 @@
     "iso:country":"MH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lae"
+    ],
+    "name:deu_x_preferred":[
+        "Lae-Atoll"
+    ],
+    "name:fin_x_preferred":[
+        "Lae"
+    ],
+    "name:fra_x_preferred":[
+        "Lae"
+    ],
+    "name:glg_x_preferred":[
+        "Atol Lae"
+    ],
+    "name:hrv_x_preferred":[
+        "Lae"
+    ],
+    "name:ind_x_preferred":[
+        "Atol Lae"
+    ],
+    "name:ita_x_preferred":[
+        "Lae"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e9\u30a8\u30fc\u74b0\u7901"
+    ],
+    "name:kor_x_preferred":[
+        "\ub77c\uc5d0 \ud658\ucd08"
+    ],
+    "name:lit_x_preferred":[
+        "La\u0117"
+    ],
     "name:mah_x_preferred":[
         "Lae"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u0430\u0435"
+    ],
+    "name:pol_x_preferred":[
+        "Lae"
+    ],
+    "name:por_x_preferred":[
+        "Atol Lae"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u044d"
+    ],
+    "name:spa_x_preferred":[
+        "Lae"
+    ],
+    "name:swe_x_preferred":[
+        "Lae"
+    ],
+    "name:zho_x_preferred":[
+        "\u62c9\u57c3\u74b0\u7901"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -47,7 +101,7 @@
         }
     ],
     "wof:id":1209248879,
-    "wof:lastmodified":1537664834,
+    "wof:lastmodified":1564302089,
     "wof:name":"Lae",
     "wof:parent_id":85632663,
     "wof:placetype":"locality",

@@ -25,6 +25,18 @@
     "iso:country":"MH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ben_x_preferred":[
+        "\u099f\u09cb\u0995\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Toka"
+    ],
+    "name:deu_x_preferred":[
+        "Toka"
+    ],
+    "name:swe_x_preferred":[
+        "Toka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -42,7 +54,7 @@
         }
     ],
     "wof:id":1310238619,
-    "wof:lastmodified":1536804346,
+    "wof:lastmodified":1564302094,
     "wof:name":"Toka",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

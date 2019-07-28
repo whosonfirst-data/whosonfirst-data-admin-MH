@@ -26,6 +26,24 @@
     "iso:country":"MH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rairik"
+    ],
+    "name:fra_x_preferred":[
+        "Rairok"
+    ],
+    "name:lit_x_preferred":[
+        "Rairokas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0420\u0430\u0458\u0440\u043e\u043a"
+    ],
+    "name:pol_x_preferred":[
+        "Rairok"
+    ],
+    "name:swe_x_preferred":[
+        "Rairik"
+    ],
     "name:und_x_variant":[
         "Rairikku Island",
         "Rairok",
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1293423743,
-    "wof:lastmodified":1537664832,
+    "wof:lastmodified":1564302087,
     "wof:name":"Rairik",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
