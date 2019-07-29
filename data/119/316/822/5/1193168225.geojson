@@ -25,6 +25,21 @@
     "iso:country":"MH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Laura"
+    ],
+    "name:fra_x_preferred":[
+        "Laura"
+    ],
+    "name:lit_x_preferred":[
+        "Laura"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041b\u043e\u0440\u0430"
+    ],
+    "name:pol_x_preferred":[
+        "Laura"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -43,7 +58,7 @@
         }
     ],
     "wof:id":1193168225,
-    "wof:lastmodified":1537568381,
+    "wof:lastmodified":1564302092,
     "wof:name":"Laura",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

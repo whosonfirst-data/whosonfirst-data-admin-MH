@@ -25,6 +25,27 @@
     "iso:country":"MH",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wau"
+    ],
+    "name:deu_x_preferred":[
+        "Wau"
+    ],
+    "name:fin_x_preferred":[
+        "Wau"
+    ],
+    "name:fra_x_preferred":[
+        "Wau"
+    ],
+    "name:nld_x_preferred":[
+        "Wau"
+    ],
+    "name:pol_x_preferred":[
+        "Wau"
+    ],
+    "name:swe_x_preferred":[
+        "Wau"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632663
@@ -42,7 +63,7 @@
         }
     ],
     "wof:id":1209243247,
-    "wof:lastmodified":1536293250,
+    "wof:lastmodified":1564302089,
     "wof:name":"Wau",
     "wof:parent_id":85632663,
     "wof:placetype":"locality",
