@@ -11,11 +11,14 @@
     "geom:longitude":167.3786,
     "gn:country":"MH",
     "gn:fcode":"ISL",
-    "gn:pop":147,
+    "gn:population":147,
     "iso:country":"MH",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lib Island"
     ],
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Lib"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Elleb"
     ],
     "name:zho_x_preferred":[
@@ -92,7 +95,7 @@
     "wof:concordances":{
         "gn:id":2080256,
         "gp:id":12515490,
-        "qs:id":571859,
+        "qs_pg:id":571859,
         "wd:id":"Q376862",
         "wk:page":"Lib Island"
     },
@@ -106,7 +109,7 @@
         }
     ],
     "wof:id":890412959,
-    "wof:lastmodified":1563253455,
+    "wof:lastmodified":1566605321,
     "wof:name":"Lib Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

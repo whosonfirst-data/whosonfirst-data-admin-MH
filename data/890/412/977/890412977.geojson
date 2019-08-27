@@ -14,11 +14,14 @@
     "geom:longitude":168.77403,
     "gn:country":"MH",
     "gn:fcode":"ATOL",
-    "gn:pop":1959,
+    "gn:population":1959,
     "iso:country":"MH",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Atol\u00f3n d'Ailinglaplap"
     ],
@@ -94,7 +97,7 @@
     "name:swe_x_preferred":[
         "Ailinglapalap"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Odia"
     ],
     "name:vie_x_preferred":[
@@ -116,7 +119,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2081089,
-        "qs:id":571873,
+        "qs_pg:id":571873,
         "wd:id":"Q405165",
         "wk:page":"Ailinglaplap Atoll"
     },
@@ -130,7 +133,7 @@
         }
     ],
     "wof:id":890412977,
-    "wof:lastmodified":1563253452,
+    "wof:lastmodified":1566605320,
     "wof:name":"Ailinglaplap Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -14,11 +14,14 @@
     "geom:longitude":165.38333,
     "gn:country":"MH",
     "gn:fcode":"ATOL",
-    "gn:pop":13,
+    "gn:population":13,
     "iso:country":"MH",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Bikini-atol"
     ],
@@ -187,7 +190,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0456\u043a\u0456\u043d\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Udia-Milai"
     ],
     "name:urd_x_preferred":[
@@ -215,7 +218,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2080855,
-        "qs:id":571868,
+        "qs_pg:id":571868,
         "wd:id":"Q152225",
         "wk:page":"Bikini Atoll"
     },
@@ -229,7 +232,7 @@
         }
     ],
     "wof:id":890428735,
-    "wof:lastmodified":1563253463,
+    "wof:lastmodified":1566605322,
     "wof:name":"Bikini Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

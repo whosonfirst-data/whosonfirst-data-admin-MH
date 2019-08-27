@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Majuro",
     "iso:country":"MH",
+    "lbl:bbox":"168.8003,7.25717,168.8403,7.29717",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Airok"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1225980487,
-    "wof:lastmodified":1537664834,
+    "wof:lastmodified":1566605324,
     "wof:name":"Airuk",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":300,
     "gn:timezone":"Pacific/Majuro",
     "iso:country":"MH",
+    "lbl:bbox":"170.84461,10.25531,170.88461,10.29531",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mah_x_preferred":[
         "M\u0101jej"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293037337,
-    "wof:lastmodified":1537664835,
+    "wof:lastmodified":1566605315,
     "wof:name":"Mejit",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

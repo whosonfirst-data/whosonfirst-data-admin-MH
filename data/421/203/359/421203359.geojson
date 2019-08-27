@@ -10,6 +10,7 @@
     "geom:latitude":8.93333,
     "geom:longitude":166.23333,
     "iso:country":"MH",
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
@@ -105,7 +106,7 @@
     "wof:concordances":{
         "gn:id":7303503,
         "gp:id":24549847,
-        "qs:id":59684,
+        "qs_pg:id":59684,
         "wd:id":"Q741121",
         "wk:page":"Lae Atoll"
     },
@@ -127,7 +128,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1563253448,
+    "wof:lastmodified":1566605320,
     "wof:name":"Lae",
     "wof:parent_id":-1,
     "wof:placetype":"region",

@@ -23,8 +23,12 @@
     "gn:population":814,
     "gn:timezone":"Pacific/Majuro",
     "iso:country":"MH",
+    "lbl:bbox":"168.08282,5.57944,168.12282,5.61944",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:mah_x_preferred":[
         "Nam\u0327dik"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293035297,
-    "wof:lastmodified":1537664835,
+    "wof:lastmodified":1566605315,
     "wof:name":"Namdrik",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

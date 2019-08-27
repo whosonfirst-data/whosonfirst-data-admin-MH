@@ -23,8 +23,12 @@
     "gn:population":2068,
     "gn:timezone":"Pacific/Majuro",
     "iso:country":"MH",
+    "lbl:bbox":"171.53413,7.04691,171.57413,7.08691",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Atol\u00f3n d'Arno"
     ],
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":1242713057,
-    "wof:lastmodified":1564302099,
+    "wof:lastmodified":1566605322,
     "wof:name":"Arno",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

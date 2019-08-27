@@ -10,6 +10,7 @@
     "geom:latitude":8.18702,
     "geom:longitude":171.13953,
     "iso:country":"MH",
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
@@ -45,7 +46,7 @@
     "wof:concordances":{
         "gn:id":7303495,
         "gp:id":24549836,
-        "qs:id":59683
+        "qs_pg:id":59683
     },
     "wof:country":"MH",
     "wof:created":1459010148,
@@ -65,7 +66,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1529541198,
+    "wof:lastmodified":1566605320,
     "wof:name":"Aur",
     "wof:parent_id":-1,
     "wof:placetype":"region",

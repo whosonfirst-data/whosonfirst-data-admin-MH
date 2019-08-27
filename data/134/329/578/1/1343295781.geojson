@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Majuro",
     "iso:country":"MH",
+    "lbl:bbox":"169.41167,5.93073,169.45167,5.97073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pinglap"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1343295781,
-    "wof:lastmodified":1537664834,
+    "wof:lastmodified":1566605312,
     "wof:name":"Pinglep",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

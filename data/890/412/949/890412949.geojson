@@ -11,11 +11,14 @@
     "geom:longitude":170.86946,
     "gn:country":"MH",
     "gn:fcode":"ISL",
-    "gn:pop":416,
+    "gn:population":416,
     "iso:country":"MH",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:cat_x_preferred":[
         "Mejit"
     ],
@@ -73,7 +76,7 @@
     "name:swe_x_preferred":[
         "Mejit"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mejichi-t\u014d"
     ],
     "name:zho_x_preferred":[
@@ -91,7 +94,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2080167,
-        "qs:id":571854,
+        "qs_pg:id":571854,
         "wd:id":"Q703543",
         "wk:page":"Mejit Island"
     },
@@ -105,7 +108,7 @@
         }
     ],
     "wof:id":890412949,
-    "wof:lastmodified":1563253454,
+    "wof:lastmodified":1566605321,
     "wof:name":"Mejit Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

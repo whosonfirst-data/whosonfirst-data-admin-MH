@@ -23,8 +23,12 @@
     "gn:population":19,
     "gn:timezone":"Pacific/Majuro",
     "iso:country":"MH",
+    "lbl:bbox":"166.87408,11.14351,166.91408,11.18351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0420\u0430\u043d\u0433\u0435\u043b\u0430\u043f"
     ],
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1360218601,
-    "wof:lastmodified":1564302095,
+    "wof:lastmodified":1566605319,
     "wof:name":"Rongelap",
     "wof:parent_id":85674139,
     "wof:placetype":"locality",

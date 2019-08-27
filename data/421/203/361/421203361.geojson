@@ -10,6 +10,7 @@
     "geom:latitude":8.3136,
     "geom:longitude":167.38,
     "iso:country":"MH",
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:max_zoom":11.0,
@@ -105,7 +106,7 @@
     "wof:concordances":{
         "gn:id":7303522,
         "gp:id":24549848,
-        "qs:id":59685,
+        "qs_pg:id":59685,
         "wd:id":"Q376862",
         "wk:page":"Lib Island"
     },
@@ -127,7 +128,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1563253448,
+    "wof:lastmodified":1566605320,
     "wof:name":"Lib",
     "wof:parent_id":-1,
     "wof:placetype":"region",

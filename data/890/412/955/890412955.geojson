@@ -11,11 +11,14 @@
     "geom:longitude":169.14345,
     "gn:country":"MH",
     "gn:fcode":"ATOL",
-    "gn:pop":527,
+    "gn:population":527,
     "iso:country":"MH",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Likiep Atoll"
     ],
@@ -75,7 +78,7 @@
     "name:swe_x_preferred":[
         "Likiep"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Likieb Islands"
     ],
     "name:zho_x_preferred":[
@@ -93,7 +96,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2080251,
-        "qs:id":571858,
+        "qs_pg:id":571858,
         "wd:id":"Q518353",
         "wk:page":"Likiep Atoll"
     },
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":890412955,
-    "wof:lastmodified":1563253451,
+    "wof:lastmodified":1566605320,
     "wof:name":"Likiep Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
