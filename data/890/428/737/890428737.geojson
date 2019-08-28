@@ -11,11 +11,14 @@
     "geom:longitude":171.13695,
     "gn:country":"MH",
     "gn:fcode":"ATOL",
-    "gn:pop":537,
+    "gn:population":537,
     "iso:country":"MH",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Atol\u00f3n d'Aur"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Aur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Traversey Islands"
     ],
     "name:zho_x_preferred":[
@@ -98,7 +101,7 @@
     "wof:concordances":{
         "gn:id":2080917,
         "gp:id":90874555,
-        "qs:id":571869,
+        "qs_pg:id":571869,
         "wd:id":"Q260549",
         "wk:page":"Aur Atoll"
     },
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":890428737,
-    "wof:lastmodified":1563253461,
+    "wof:lastmodified":1566605321,
     "wof:name":"Aur Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

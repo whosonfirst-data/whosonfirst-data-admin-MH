@@ -11,11 +11,14 @@
     "geom:longitude":165.98299,
     "gn:country":"MH",
     "gn:fcode":"ATOL",
-    "gn:pop":145,
+    "gn:population":145,
     "iso:country":"MH",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Wotho"
     ],
@@ -70,7 +73,7 @@
     "name:swe_x_preferred":[
         "Wotho"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kabahaia Inseln"
     ],
     "name:zho_x_preferred":[
@@ -88,7 +91,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2079845,
-        "qs:id":571846,
+        "qs_pg:id":571846,
         "wd:id":"Q175931",
         "wk:page":"Wotho Atoll"
     },
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890412933,
-    "wof:lastmodified":1563253458,
+    "wof:lastmodified":1566605321,
     "wof:name":"Wotho Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

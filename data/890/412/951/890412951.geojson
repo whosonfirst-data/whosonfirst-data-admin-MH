@@ -11,11 +11,14 @@
     "geom:longitude":171.03928,
     "gn:country":"MH",
     "gn:fcode":"ATOL",
-    "gn:pop":856,
+    "gn:population":856,
     "iso:country":"MH",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Maloelap Atoll"
     ],
@@ -79,7 +82,7 @@
     "name:tur_x_preferred":[
         "maloelap atoll"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Araktschejeff Islands"
     ],
     "name:vie_x_preferred":[
@@ -101,7 +104,7 @@
     "wof:concordances":{
         "gn:id":2080201,
         "gp:id":90874555,
-        "qs:id":571856,
+        "qs_pg:id":571856,
         "wd:id":"Q567926",
         "wk:page":"Maloelap Atoll"
     },
@@ -115,7 +118,7 @@
         }
     ],
     "wof:id":890412951,
-    "wof:lastmodified":1563253458,
+    "wof:lastmodified":1566605321,
     "wof:name":"Maloelap Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":168.97698,
     "gn:country":"MH",
     "gn:fcode":"ISL",
-    "gn:pop":95,
+    "gn:population":95,
     "iso:country":"MH",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ast_x_preferred":[
         "Islla Jabat"
     ],
@@ -79,7 +82,7 @@
     "name:swe_x_preferred":[
         "Jabwot"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bonham Island"
     ],
     "name:zho_x_preferred":[
@@ -98,7 +101,7 @@
     "wof:concordances":{
         "gn:id":2080416,
         "gp:id":12515493,
-        "qs:id":571864,
+        "qs_pg:id":571864,
         "wd:id":"Q697805",
         "wk:page":"Jabat Island"
     },
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":890412969,
-    "wof:lastmodified":1563253457,
+    "wof:lastmodified":1566605321,
     "wof:name":"Jabat Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

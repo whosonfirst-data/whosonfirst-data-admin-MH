@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Majuro",
     "iso:country":"MH",
+    "lbl:bbox":"171.15137,7.05466,171.19137,7.09466",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Ajeltake"
     ],
@@ -46,7 +50,6 @@
     "name:und_x_variant":[
         "Ajurolake",
         "Ajurotake",
-        "Ajeltake",
         "Ajurotaka"
     ],
     "src:geom":"geonames",
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1293231269,
-    "wof:lastmodified":1564302086,
+    "wof:lastmodified":1566605314,
     "wof:name":"Ajeltake",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

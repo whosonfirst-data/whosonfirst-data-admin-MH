@@ -23,8 +23,12 @@
     "gn:population":115,
     "gn:timezone":"Pacific/Majuro",
     "iso:country":"MH",
+    "lbl:bbox":"167.35662,8.29221,167.39662,8.33221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:swe_x_preferred":[
         "Lib"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1326661283,
-    "wof:lastmodified":1564302082,
+    "wof:lastmodified":1566605311,
     "wof:name":"Lib",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

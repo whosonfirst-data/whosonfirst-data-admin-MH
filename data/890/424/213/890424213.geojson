@@ -11,10 +11,14 @@
     "geom:longitude":170.86435,
     "gn:country":"MH",
     "gn:fcode":"PPL",
-    "gn:pop":416,
+    "gn:population":416,
     "iso:country":"MH",
+    "lbl:bbox":"170.84435,10.25633,170.88435,10.29633",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Mejit",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -26,7 +30,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7304041,
-        "qs:id":682314
+        "qs_pg:id":682314
     },
     "wof:country":"MH",
     "wof:created":1469051534,
@@ -38,7 +42,7 @@
         }
     ],
     "wof:id":890424213,
-    "wof:lastmodified":1505343480,
+    "wof:lastmodified":1566605321,
     "wof:name":"Mejit",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

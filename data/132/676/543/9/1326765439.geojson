@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Majuro",
     "iso:country":"MH",
+    "lbl:bbox":"171.83853,7.05611,171.87853,7.09611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191583,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1326765439,
-    "wof:lastmodified":1536647435,
+    "wof:lastmodified":1566605312,
     "wof:name":"Malel",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

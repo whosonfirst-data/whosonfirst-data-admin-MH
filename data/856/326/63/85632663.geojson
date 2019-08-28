@@ -17,6 +17,8 @@
     ],
     "lbl:latitude":8.710837,
     "lbl:longitude":171.237308,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":8.710837,
     "mps:longitude":171.237308,
     "mz:hierarchy_label":1,
@@ -708,17 +710,9 @@
         "Marshalloeyene",
         "Marshalloyene"
     ],
-    "name:und_x_preferred":[
-        "Marshallovi otoki"
-    ],
     "name:und_x_variant":[
         "Kwajalein",
-        "Marshallinsaaret",
-        "Marshall\u00f8erne",
-        "Marshall\u00f8yene",
-        "Republika Marshallovi otoki"
-    ],
-    "name:unk_x_variant":[
+        "Republika Marshallovi otoki",
         "Kwajalein District"
     ],
     "name:urd_x_preferred":[
@@ -863,9 +857,9 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
-    "src:population:date":"2011-04-05",
+    "src:population_date":"2011-04-05",
     "statoids:area_km":"181",
     "statoids:area_mi":"70",
     "statoids:as_of_date":"2011-04-05",
@@ -894,7 +888,6 @@
     "wd:longitude":171.066667,
     "wd:population":52634,
     "wd:wordcount":6162,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583
     ],
@@ -920,7 +913,7 @@
         "mzb:id":"marshall-islands",
         "ne:adm0_a3":"MHL",
         "nyt:id":"14474044480959249881",
-        "qs:id":1242360,
+        "qs_pg:id":1242360,
         "wd:id":"Q709",
         "wk:page":"Marshall Islands",
         "wmo:id":"MH"
@@ -935,9 +928,6 @@
         }
     ],
     "wof:id":85632663,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng",
         "mah"
@@ -946,7 +936,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1563253436,
+    "wof:lastmodified":1566605313,
     "wof:name":"Marshall Islands",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

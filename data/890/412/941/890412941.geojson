@@ -11,11 +11,14 @@
     "geom:longitude":166.8304,
     "gn:country":"MH",
     "gn:fcode":"ATOL",
-    "gn:pop":19,
+    "gn:population":19,
     "iso:country":"MH",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0410\u0442\u043e\u043b \u0420\u0430\u043d\u0433\u0435\u043b\u0430\u043f"
     ],
@@ -88,7 +91,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0442\u043e\u043b \u0420\u043e\u043d\u0433\u0435\u043b\u0430\u043f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Grossrong"
     ],
     "name:vie_x_preferred":[
@@ -109,7 +112,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2079981,
-        "qs:id":571849,
+        "qs_pg:id":571849,
         "wd:id":"Q542619",
         "wk:page":"Rongelap Atoll"
     },
@@ -123,7 +126,7 @@
         }
     ],
     "wof:id":890412941,
-    "wof:lastmodified":1563253452,
+    "wof:lastmodified":1566605320,
     "wof:name":"Rongelap Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

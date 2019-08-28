@@ -11,11 +11,14 @@
     "geom:longitude":166.23181,
     "gn:country":"MH",
     "gn:fcode":"ATOL",
-    "gn:pop":322,
+    "gn:population":322,
     "iso:country":"MH",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Lae"
     ],
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Lae"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Brown Island"
     ],
     "name:zho_x_preferred":[
@@ -95,7 +98,7 @@
     "wof:concordances":{
         "gn:id":2080274,
         "gp:id":90874681,
-        "qs:id":571860,
+        "qs_pg:id":571860,
         "wd:id":"Q741121",
         "wk:page":"Lae Atoll"
     },
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":890412961,
-    "wof:lastmodified":1563253455,
+    "wof:lastmodified":1566605321,
     "wof:name":"Lae Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

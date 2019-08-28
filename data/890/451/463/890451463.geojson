@@ -11,10 +11,12 @@
     "geom:longitude":171.370914,
     "gn:country":"MH",
     "gn:fcode":"PPLC",
-    "gn:pop":25400,
+    "gn:population":25400,
     "iso:country":"MH",
     "lbl:latitude":7.08971,
     "lbl:longitude":171.38027,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -437,10 +439,12 @@
     "wof:concordances":{
         "gn:id":2113779,
         "gp:id":1064287,
-        "qs:id":90873,
-        "qs_pg:id":1107390,
+        "qs_pg:id":90873,
         "wd:id":"Q12919",
         "wk:page":"Majuro"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1107390
     },
     "wof:country":"MH",
     "wof:created":1469052780,
@@ -454,7 +458,7 @@
         }
     ],
     "wof:id":890451463,
-    "wof:lastmodified":1563253464,
+    "wof:lastmodified":1566605322,
     "wof:name":"Majuro",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

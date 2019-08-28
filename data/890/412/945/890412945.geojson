@@ -11,11 +11,14 @@
     "geom:longitude":168.11773,
     "gn:country":"MH",
     "gn:fcode":"ATOL",
-    "gn:pop":772,
+    "gn:population":772,
     "iso:country":"MH",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Namdrik"
     ],
@@ -76,7 +79,7 @@
     "name:swe_x_preferred":[
         "Namorik"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Klein-Namo"
     ],
     "name:zho_x_preferred":[
@@ -94,7 +97,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":2080105,
-        "qs:id":571851,
+        "qs_pg:id":571851,
         "wd:id":"Q697819",
         "wk:page":"Namdrik Atoll"
     },
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":890412945,
-    "wof:lastmodified":1563253459,
+    "wof:lastmodified":1566605321,
     "wof:name":"Namdrik Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
