@@ -1,10 +1,12 @@
 {
   "id": 890451463,
   "type": "Feature",
-  "properties": {"wof:repo":"whosonfirst-data-admin-mh",
+  "properties": {
+    "src:alt_label":"unknown",
     "src:geom":"unknown",
     "wof:geomhash":"c48fe63adfadf712ef36de99ea718c2e",
-    "wof:id":890451463
+    "wof:id":890451463,
+    "wof:repo":"whosonfirst-data-admin-mh"
 },
   "bbox": [
     171.38027,
