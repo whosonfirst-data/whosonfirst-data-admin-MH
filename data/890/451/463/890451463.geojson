@@ -448,6 +448,10 @@
     },
     "wof:country":"MH",
     "wof:created":1469052780,
+    "wof:geom_alt":[
+        "unknown",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2f4941ab2f55fb4c609d728d89d4f5e9",
     "wof:hierarchy":[
         {
@@ -458,7 +462,7 @@
         }
     ],
     "wof:id":890451463,
-    "wof:lastmodified":1566605322,
+    "wof:lastmodified":1582393040,
     "wof:name":"Majuro",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -920,6 +920,10 @@
     },
     "wof:country":"MH",
     "wof:country_alpha3":"MHL",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"425f6ff092863c8a8d9201f435a9d139",
     "wof:hierarchy":[
         {
@@ -936,7 +940,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1566605313,
+    "wof:lastmodified":1582393040,
     "wof:name":"Marshall Islands",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
