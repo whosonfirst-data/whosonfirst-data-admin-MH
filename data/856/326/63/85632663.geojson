@@ -897,9 +897,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Marshall_Islands",
-        "digitalenvoy:country_code":[
-            584
-        ],
+        "digitalenvoy:country_code":584,
         "fb:id":"en.marshall_islands",
         "fifa:id":"MHL",
         "fips:code":"RM",
@@ -943,7 +941,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1583529252,
+    "wof:lastmodified":1583797462,
     "wof:name":"Marshall Islands",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
