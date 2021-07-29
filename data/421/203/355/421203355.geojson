@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Aur"
     ],
+    "name:fra_x_preferred":[
+        "Aur"
+    ],
     "qs:gn_country":"MH",
     "qs:gn_fcode":"ADM1",
     "qs:gn_id":7303495,
@@ -66,7 +69,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1566605320,
+    "wof:lastmodified":1627522351,
     "wof:name":"Aur",
     "wof:parent_id":-1,
     "wof:placetype":"region",

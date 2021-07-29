@@ -23,6 +23,9 @@
     "name:eng_x_preferred":[
         "Railik Chain"
     ],
+    "name:fra_x_preferred":[
+        "\u00celes Ralik"
+    ],
     "name:jpn_x_preferred":[
         "\u30e9\u30ea\u30c3\u30af\u5217\u5cf6"
     ],
@@ -125,7 +128,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1614895137,
+    "wof:lastmodified":1627522351,
     "wof:name":"Railik Chain",
     "wof:parent_id":85632663,
     "wof:placetype":"region",
