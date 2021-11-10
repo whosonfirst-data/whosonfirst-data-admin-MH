@@ -40,6 +40,9 @@
     "name:hrv_x_preferred":[
         "Lae"
     ],
+    "name:hun_x_preferred":[
+        "Lae"
+    ],
     "name:ind_x_preferred":[
         "Atol Lae"
     ],
@@ -128,7 +131,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1566605320,
+    "wof:lastmodified":1636506371,
     "wof:name":"Lae",
     "wof:parent_id":-1,
     "wof:placetype":"region",

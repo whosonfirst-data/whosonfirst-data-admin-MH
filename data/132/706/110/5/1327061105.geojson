@@ -65,6 +65,9 @@
     "name:hif_x_preferred":[
         "Lae"
     ],
+    "name:hun_x_preferred":[
+        "Lae"
+    ],
     "name:ind_x_preferred":[
         "Lae"
     ],
@@ -138,7 +141,7 @@
         }
     ],
     "wof:id":1327061105,
-    "wof:lastmodified":1566605311,
+    "wof:lastmodified":1636506369,
     "wof:name":"Lae",
     "wof:parent_id":85674139,
     "wof:placetype":"locality",
