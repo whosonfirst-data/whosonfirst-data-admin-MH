@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u062d\u0644\u0642\u0629 \u0646\u0627\u0645\u062f\u0631\u064a\u0643"
+    ],
     "name:ceb_x_preferred":[
         "Namdrik"
     ],
@@ -82,6 +85,9 @@
     "name:und_x_variant":[
         "Klein-Namo"
     ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0645\u062f\u0631\u06cc\u06a9 \u062c\u0632\u06cc\u0631\u06c1 \u0645\u0631\u062c\u0627\u0646\u06cc"
+    ],
     "name:zho_x_preferred":[
         "\u7d0d\u83ab\u91cc\u514b\u74b0\u7901"
     ],
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":890412945,
-    "wof:lastmodified":1566605321,
+    "wof:lastmodified":1690939433,
     "wof:name":"Namdrik Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -79,6 +79,9 @@
     "name:und_x_variant":[
         "Mejichi-t\u014d"
     ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u0645\u06cc\u062c\u06cc\u062a"
+    ],
     "name:zho_x_preferred":[
         "\u6885\u5409\u7279\u5cf6"
     ],
@@ -108,7 +111,7 @@
         }
     ],
     "wof:id":890412949,
-    "wof:lastmodified":1566605321,
+    "wof:lastmodified":1690939431,
     "wof:name":"Mejit Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

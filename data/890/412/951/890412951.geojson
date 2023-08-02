@@ -19,6 +19,9 @@
     "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":11.0,
+    "name:cat_x_preferred":[
+        "Maloelap"
+    ],
     "name:ceb_x_preferred":[
         "Maloelap Atoll"
     ],
@@ -82,8 +85,14 @@
     "name:tur_x_preferred":[
         "maloelap atoll"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043b\u043e\u0435\u043b\u0430\u043f"
+    ],
     "name:und_x_variant":[
         "Araktschejeff Islands"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0644\u0648\u0626\u0644\u0627\u067e \u062c\u0632\u06cc\u0631\u06c1 \u0645\u0631\u062c\u0627\u0646\u06cc"
     ],
     "name:vie_x_preferred":[
         "Maloelap"
@@ -118,7 +127,7 @@
         }
     ],
     "wof:id":890412951,
-    "wof:lastmodified":1566605321,
+    "wof:lastmodified":1690939432,
     "wof:name":"Maloelap Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
