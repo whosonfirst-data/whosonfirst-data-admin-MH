@@ -64,8 +64,14 @@
     "name:deu_x_preferred":[
         "Bikini-Atoll"
     ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03cc\u03bb\u03b7 \u039c\u03c0\u03b9\u03ba\u03af\u03bd\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Bikini Atoll"
+    ],
+    "name:epo_x_preferred":[
+        "Bikini Atolo"
     ],
     "name:est_x_preferred":[
         "Bikini"
@@ -103,6 +109,9 @@
     "name:hun_x_variant":[
         "Bikini-atoll"
     ],
+    "name:ido_x_preferred":[
+        "Atolo Bikini"
+    ],
     "name:ind_x_preferred":[
         "Atol Bikini"
     ],
@@ -133,8 +142,14 @@
     "name:ltz_x_preferred":[
         "Bikini-Atoll"
     ],
+    "name:mar_x_preferred":[
+        "\u092c\u093f\u0915\u093f\u0928\u0940 \u090f\u091f\u094b\u0932"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0438\u043a\u0438\u043d\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Atol Bikini"
     ],
     "name:nep_x_preferred":[
         "\u092c\u093f\u0915\u093f\u0928\u0940 \u090f\u091f\u094b\u0932"
@@ -172,8 +187,14 @@
     "name:slk_x_preferred":[
         "Atol Bikini"
     ],
+    "name:slv_x_preferred":[
+        "atol Bikini"
+    ],
     "name:spa_x_preferred":[
         "Atol\u00f3n Bikini"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0438\u043a\u0438\u043d\u0438 \u0430\u0442\u043e\u043b"
     ],
     "name:swa_x_preferred":[
         "Bikini"
@@ -198,6 +219,12 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ea3o san h\u00f4 v\u00f2ng Bikini"
+    ],
+    "name:war_x_preferred":[
+        "Atol Bikini"
+    ],
+    "name:yue_x_preferred":[
+        "\u6bd4\u5805\u5c3c\u74b0\u7901"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u57fa\u5c3c\u5c9b"
@@ -232,7 +259,7 @@
         }
     ],
     "wof:id":890428735,
-    "wof:lastmodified":1566605322,
+    "wof:lastmodified":1690939434,
     "wof:name":"Bikini Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Ebeye"
     ],
+    "name:ind_x_preferred":[
+        "Pulau Ebeye"
+    ],
     "name:jpn_x_preferred":[
         "\u30a4\u30fc\u30d0\u30a4\u5cf6"
     ],
@@ -56,11 +59,17 @@
     "name:swe_x_preferred":[
         "Ebeye"
     ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0431\u0430\u0439"
+    ],
     "name:urd_x_preferred":[
         "\u062c\u0632\u06cc\u0631\u06c1 \u0627\u06cc\u0628\u0622\u0626\u06cc"
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u62dc\u5c9b"
+    ],
+    "name:zho_x_variant":[
+        "\u57c3\u8d1d\u8036\u5c9b"
     ],
     "qs:gn_country":"MH",
     "qs:gn_fcode":"PPL",
@@ -102,7 +111,7 @@
         }
     ],
     "wof:id":421204555,
-    "wof:lastmodified":1566605320,
+    "wof:lastmodified":1690939428,
     "wof:name":"Ebeye",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

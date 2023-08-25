@@ -76,8 +76,14 @@
     "name:swe_x_preferred":[
         "Lib"
     ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u0644\u0628"
+    ],
     "name:zho_x_preferred":[
         "\u91cc\u5e03\u5cf6"
+    ],
+    "name:zho_x_variant":[
+        "\u5229\u5e03\u5cf6"
     ],
     "qs:gn_country":"MH",
     "qs:gn_fcode":"ADM1",
@@ -128,7 +134,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1566605320,
+    "wof:lastmodified":1690939428,
     "wof:name":"Lib",
     "wof:parent_id":-1,
     "wof:placetype":"region",

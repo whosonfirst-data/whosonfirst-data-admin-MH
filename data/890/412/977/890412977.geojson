@@ -43,6 +43,9 @@
     "name:eng_x_preferred":[
         "Ailinglaplap Atoll"
     ],
+    "name:fas_x_preferred":[
+        "\u0622\u062a\u0644 \u0622\u06cc\u0644\u06cc\u0646\u06af\u0644\u0627\u067e\u0644\u0627\u067e"
+    ],
     "name:fin_x_preferred":[
         "Ailinglaplap"
     ],
@@ -106,6 +109,9 @@
     "name:zho_x_preferred":[
         "\u57c3\u6797\u62c9\u666e\u62c9\u666e\u74b0\u7901"
     ],
+    "name:zho_x_variant":[
+        "\u827e\u6797\u62c9\u5e15\u62c9\u666e\u73af\u7901"
+    ],
     "qs:name":"Ailinglaplap Atoll",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -133,7 +139,7 @@
         }
     ],
     "wof:id":890412977,
-    "wof:lastmodified":1566605320,
+    "wof:lastmodified":1690939430,
     "wof:name":"Ailinglaplap Atoll",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -79,8 +79,14 @@
     "name:und_x_variant":[
         "Elleb"
     ],
+    "name:urd_x_preferred":[
+        "\u062c\u0632\u06cc\u0631\u06c1 \u0644\u0628"
+    ],
     "name:zho_x_preferred":[
         "\u91cc\u5e03\u5cf6"
+    ],
+    "name:zho_x_variant":[
+        "\u5229\u5e03\u5cf6"
     ],
     "qs:name":"Lib Island",
     "qs:photos_9r":0,
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":890412959,
-    "wof:lastmodified":1566605321,
+    "wof:lastmodified":1690939431,
     "wof:name":"Lib Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
