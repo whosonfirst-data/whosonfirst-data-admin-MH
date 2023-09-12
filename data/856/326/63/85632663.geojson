@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022821,
-    "geom:area_square_m":278895170.293597,
+    "geom:area_square_m":278895177.648675,
     "geom:bbox":"160.806198,4.571195,172.163773,14.657917",
     "geom:latitude":8.512677,
     "geom:longitude":169.015461,
@@ -14,6 +14,9 @@
     "iso:country":"MH",
     "itu:country_code":[
         "692"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "lbl:latitude":8.710837,
     "lbl:longitude":171.237308,
@@ -1029,8 +1032,9 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
     "src:population_date":"2011-04-05",
+    "src:population_year":"2019",
     "statoids:area_km":"181",
     "statoids:area_mi":"70",
     "statoids:as_of_date":"2011-04-05",
@@ -1097,7 +1101,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"4ff258edf704bc7bad157750e27d009a",
+    "wof:geomhash":"9462d18ac935df5d214ee314a88ca54b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -1113,7 +1117,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1690939427,
+    "wof:lastmodified":1694492120,
     "wof:name":"Marshall Islands",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
@@ -1121,8 +1125,8 @@
         "region"
     ],
     "wof:placetype_local":"country",
-    "wof:population":52634,
-    "wof:population_rank":8,
+    "wof:population":58791,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-mh",
     "wof:shortcode":"MH",
     "wof:superseded_by":[],
