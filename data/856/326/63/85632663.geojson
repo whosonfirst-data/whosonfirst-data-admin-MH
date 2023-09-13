@@ -1033,8 +1033,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_date":"2011-04-05",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:area_km":"181",
     "statoids:area_mi":"70",
     "statoids:as_of_date":"2011-04-05",
@@ -1117,7 +1116,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1694492120,
+    "wof:lastmodified":1694639573,
     "wof:name":"Marshall Islands",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
