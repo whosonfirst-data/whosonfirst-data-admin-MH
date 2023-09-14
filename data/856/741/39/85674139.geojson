@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.008053,
-    "geom:area_square_m":98646754.146497,
+    "geom:area_square_m":98647039.532807,
     "geom:bbox":"160.962169,4.573798,169.734548,11.710883",
     "geom:latitude":7.550948,
     "geom:longitude":168.265388,
     "gp:id":0,
     "iso:country":"MH",
+    "label:eng_x_preferred_longname":[
+        "Railik Chain"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "island chain"
+    ],
     "lbl:latitude":5.92127,
     "lbl:longitude":169.653836,
     "lbl:min_zoom":8.0,
@@ -165,7 +171,7 @@
         "hasc:id":"MH."
     },
     "wof:country":"MH",
-    "wof:geomhash":"48f6074a7b52f3ca6aa3ab3db853d6ef",
+    "wof:geomhash":"63f7e8574b58b332957b3e7364776a1a",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -182,7 +188,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1636506370,
+    "wof:lastmodified":1694493128,
     "wof:name":"Railik Chain",
     "wof:parent_id":85632663,
     "wof:placetype":"region",

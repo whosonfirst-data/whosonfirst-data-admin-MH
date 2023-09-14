@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007648,
-    "geom:area_square_m":93746935.23777,
+    "geom:area_square_m":93747185.672004,
     "geom:bbox":"168.987315,6.051703,172.029796,14.645779",
     "geom:latitude":7.434237,
     "geom:longitude":171.269803,
     "gp:id":0,
     "iso:country":"MH",
+    "label:eng_x_preferred_longname":[
+        "Ratak Chain"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "island chain"
+    ],
     "lbl:latitude":7.082567,
     "lbl:longitude":171.193611,
     "lbl:min_zoom":8.0,
@@ -262,7 +268,7 @@
         "wd:id":"Q700048"
     },
     "wof:country":"MH",
-    "wof:geomhash":"707a9f5fff2383a0fec0a36b0232068a",
+    "wof:geomhash":"6bf220e77054068261d77ad09420eaba",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -279,7 +285,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1690939427,
+    "wof:lastmodified":1694493128,
     "wof:name":"Ratak Chain",
     "wof:parent_id":85632663,
     "wof:placetype":"region",
