@@ -18,7 +18,7 @@
     ],
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
@@ -121,10 +121,12 @@
     "wof:concordances":{
         "gn:id":7303503,
         "gp:id":24549847,
+        "iso:code":"MH-LAE",
         "qs_pg:id":59684,
         "wd:id":"Q741121",
         "wk:page":"Lae Atoll"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MH",
     "wof:created":1459010148,
     "wof:geomhash":"3a3b973e76a36d261e6c4b77621edd30",
@@ -143,7 +145,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1694493128,
+    "wof:lastmodified":1695884289,
     "wof:name":"Lae",
     "wof:parent_id":-1,
     "wof:placetype":"region",
