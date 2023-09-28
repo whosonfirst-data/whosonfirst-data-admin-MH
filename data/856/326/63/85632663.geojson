@@ -1081,6 +1081,7 @@
         "hasc:id":"MH",
         "icao:code":"V7",
         "ioc:id":"MSH",
+        "iso:code":"MH",
         "iso:id":"MH-MH",
         "itu:id":"MHL",
         "m49:code":"584",
@@ -1094,6 +1095,7 @@
         "wk:page":"Marshall Islands",
         "wmo:id":"MH"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MH",
     "wof:country_alpha3":"MHL",
     "wof:geom_alt":[
@@ -1116,7 +1118,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1694639573,
+    "wof:lastmodified":1695881233,
     "wof:name":"Marshall Islands",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
