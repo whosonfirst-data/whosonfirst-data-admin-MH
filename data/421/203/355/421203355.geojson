@@ -18,7 +18,7 @@
     ],
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
@@ -55,8 +55,10 @@
     "wof:concordances":{
         "gn:id":7303495,
         "gp:id":24549836,
+        "iso:code":"MH-AUR",
         "qs_pg:id":59683
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MH",
     "wof:created":1459010148,
     "wof:geomhash":"33f502ed8032703c3cdd1fb492060d6a",
@@ -75,7 +77,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1694493127,
+    "wof:lastmodified":1695884284,
     "wof:name":"Aur",
     "wof:parent_id":-1,
     "wof:placetype":"region",

@@ -23,7 +23,7 @@
     "mps:latitude":7.082567,
     "mps:longitude":171.193611,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -264,9 +264,11 @@
         "gn:id":-1,
         "gp:id":-99,
         "hasc:id":"MH.",
+        "iso:code":"MH-T",
         "unlc:id":"MH-T",
         "wd:id":"Q700048"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"MH",
     "wof:geomhash":"6bf220e77054068261d77ad09420eaba",
     "wof:hierarchy":[
@@ -285,7 +287,7 @@
         "eng",
         "mah"
     ],
-    "wof:lastmodified":1694493128,
+    "wof:lastmodified":1695884289,
     "wof:name":"Ratak Chain",
     "wof:parent_id":85632663,
     "wof:placetype":"region",
