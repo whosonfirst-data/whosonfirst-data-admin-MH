@@ -54,10 +54,16 @@
         "Kili"
     ],
     "src:geom":"geonames",
+    "src:population":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7306509
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7306525
+        ]
     },
     "wof:country":"MH",
     "wof:geomhash":"5c9d14ceeaf207d3491723dcab2a4f9e",
@@ -70,13 +76,17 @@
         }
     ],
     "wof:id":1243399403,
-    "wof:lastmodified":1566605322,
+    "wof:lastmodified":1706240351,
     "wof:name":"Kili",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
+    "wof:population":602,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360218467
+    ],
     "wof:tags":[]
 },
   "bbox": [

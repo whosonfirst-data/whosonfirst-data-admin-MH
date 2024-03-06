@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"170.86461,10.27531,170.86461,10.27531",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":11.0,
     "name:mah_x_preferred":[
         "M\u0101jej"
@@ -53,14 +55,16 @@
         }
     ],
     "wof:id":1293037337,
-    "wof:lastmodified":1566605315,
+    "wof:lastmodified":1706240351,
     "wof:name":"Mejit",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:population":300,
     "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-mh",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890424213
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -39,6 +39,11 @@
     "wof:concordances":{
         "gn:id":7306529
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            2080555
+        ]
+    },
     "wof:country":"MH",
     "wof:geomhash":"fe5ec36576afc8a27f3d357a4aecd185",
     "wof:hierarchy":[
@@ -50,7 +55,7 @@
         }
     ],
     "wof:id":1242812681,
-    "wof:lastmodified":1566605322,
+    "wof:lastmodified":1706240351,
     "wof:name":"Wotho",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
@@ -58,7 +63,9 @@
     "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mh",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360119233
+    ],
     "wof:tags":[]
 },
   "bbox": [
